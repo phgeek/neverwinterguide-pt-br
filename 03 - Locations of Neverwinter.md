@@ -5,50 +5,50 @@ order: 30
 module-pagebreaks: h1, h2, h3
 ---
 
-# Locations of Neverwinter
+# Locais de Neverwinter
 
-## Castle Never
+## Castelo Never
 
-![Castle Never](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
+![Castelo Never](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
 
-Castle Never, towering over the western end of the city, is impossible to miss. The castle sits on the rocky cliffs and outcroppings on the north side of the estuary where the Neverwinter River and the Sea of Swords meet. The castle has a circular rock around its main structure from which three bridges radiate out over the Neverwinter River: the Sleeping Dragon Bridge, the Winged Wyvern Bridge, and the Dolphin Bridge.
+O Castelo Never, imponente no extremo oeste da cidade, é impossível não notar. O castelo fica nos penhascos rochosos e afloramentos no lado norte do estuário, onde o Rio Neverwinter e o Mar das Espadas se encontram. O castelo tem uma rocha circular ao redor de sua estrutura principal, de onde três pontes se estendem sobre o Rio Neverwinter: a Ponte do Dragão Adormecido, a Ponte da Serpe Alada e a Ponte dos Golfinhos.
 
-The castle straddles the boundaries between the Protectors Enclave, the Neverwinter Docks, and the Bluelake districts. Throughout history, Castle Never has been claimed as a part of many city districts, but it might be best to consider the Castle as its own district. The three bridges around the castle serve as an essential part of city infrastructure, providing a way of traversing the Neverwinter River and getting between the Protectors Enclave and Bluelake districts.
+O castelo se estende entre o Enclave dos Protetores, as Docas de Neverwinter e os distritos de Lago Azul. Ao longo da história, o Castelo Never foi reivindicado como parte de muitos distritos da cidade, mas talvez seja melhor considerá-lo como um distrito independente. As três pontes ao redor do castelo servem como parte essencial da infraestrutura da cidade, fornecendo uma maneira de atravessar o Rio Neverwinter e se deslocar entre os distritos do Enclave dos Protetores e Lago Azul.
 
-The castle's interior and exterior structure are both currently in disrepair, making the structure too dangerous for any inhabitation. The city's current de facto leader, Lord Dagult Neverember, is making inroads into restoring Castle Never.
+A estrutura interna e externa do castelo estão atualmente em ruínas, tornando-a perigosa demais para qualquer habitação. O atual líder de fato da cidade, Lorde Dagult Neverember, está se empenhando na restauração do Castelo Never.
 
-#### Castle Never: Rise and Fall
+#### Castelo Never: Ascensão e Queda
 
-A visitor to Neverwinter may note that its architecture differs a bit from that of other parts of the city. That is because Castle Never is actually over a millennium old, having been commissioned by the sun elf, Lord Halueth Never, who famously conquered the city of Illusk (of whose ruins modern-day Luskan now sits atop). Much of Castle Never was presumably built between -10 DR (Lord Never's conquest of Illusk) and 87 DR (the time Neverwinter was officially founded as a city). 
+Um visitante de Neverwinter pode notar que sua arquitetura difere um pouco da de outras partes da cidade. Isso porque o Castelo Never tem, na verdade, mais de um milênio de idade, tendo sido encomendado pelo elfo solar, Lorde Halueth Never, que conquistou a cidade de Illusk (cujas ruínas hoje abrigam Luskan). Grande parte do Castelo Never foi presumivelmente construída entre -10 CV (a conquista de Illusk por Lorde Never) e 87 CV (época em que Neverwinter foi oficialmente fundada como cidade).
 
-Throughout Neverwinter's many attacks and disasters, Castle Never has stood tall as an imposing symbol of the city's resolve as well as a monument to the city's former glories. That isn't to say, however, that the Castle has been left unscathed. Perhaps the most-significant disaster for Castle Never was in 1451 DR when "[the cataclysm](history-of-neverwinter)" struck Neverwinter and left most of Castle Never in ruins and killed almost all of its inhabitants (including the ruling lineage). Castle Never now remains haunted with the spirits of those killed in the cataclysm.
+Ao longo dos muitos ataques e desastres de Neverwinter, o Castelo Never se manteve imponente como um símbolo imponente da determinação da cidade, bem como um monumento às suas antigas glórias. Isso não quer dizer, no entanto, que o Castelo tenha saído ileso. Talvez o desastre mais significativo para o Castelo Never tenha ocorrido em 1451 CV, quando "[o cataclismo](history-of-neverwinter)" atingiu Neverwinter, deixando a maior parte do Castelo Never em ruínas e matando quase todos os seus habitantes (incluindo a linhagem dominante). O Castelo Never permanece assombrado pelos espíritos daqueles que morreram no cataclismo.
 
 (print-page)
 
-#### Inside the Castle
+#### Dentro do Castelo
 
-Exploring the interior of Castle Never is currently a perilous activity. Adventurers looking to navigate the castle would find it inhospitable due to both its ghostly inhabitants as well as the simple dangers of exploring a building so severely damaged. The Castle is a massive structure with countless stories that both ascend toward the sky and descend to the depths. It has a number of well-documented areas of danger:
-- ***The Atrium***. The atrium, now boarded over to keep sunlight out and the heat of rot inside, contains an eerie display of exotic bird skeletons in gilded cages. The atrium is now home to territorial [Myconids](/monster/myconid-adult) that will attack and feast on intruders.
-- ***Hall of Mirrors***. Previously a long hall of mirrors where nobility practiced gait and posture, any mortal intruder that enters this hall will find a magical recreation of the hall's destruction. Shards of flying mirror glass and fiery ruins will be launched at any that dwell in the hall for too long.
-- ***Neverneath***. The catacombs under the castle, referred to as the "Neverneath", feature an enchantment that cause the maze-like layout to change dynamically with a malevolent sentience. Structures will change to create dead ends, tunnels that lead back on themselves, or doors that lead to new locations each time they are opened. All of this serves to trap adventurers in until they meet their demise, likely at the claws of the catacomb's many [gargoyles](/monster/gargoyle).
-- ***The Vault of the Nine***. This tomb is the resting place for the nine bodyguards of Neverwinter's royal lineage. The vault contains an outer chamber which features everburning torches that light the room when mortals enter. Undead lurk in the shadows of this outer chamber. The inner chamber, sealed away behind a giant stone door bearing the sigill of Neverwinter, has nine marble coffins that encircle a throne. Visitors that manage to make it to the inner chamber of the Vault of the Nine and take a rest may awaken to find the spirits the Nine standing vigil over them.
+Explorar o interior do Castelo Never é atualmente uma atividade perigosa. Aventureiros que desejam navegar pelo castelo o acharão inóspito devido aos seus habitantes fantasmagóricos, bem como aos simples perigos de explorar um edifício tão severamente danificado. O Castelo é uma estrutura maciça com inúmeros andares que ascendem aos céus e descem às profundezas. Possui diversas áreas de perigo bem documentadas:
+- ***O Átrio***. O átrio, agora fechado com tábuas para impedir a entrada da luz solar e o calor da decomposição, contém uma exibição sinistra de esqueletos de pássaros exóticos em gaiolas douradas. O átrio agora abriga [Miconides](/monster/myconid-adult) territoriais que atacarão e se banquetearão com intrusos.
+- ***Salão dos Espelhos***. Anteriormente um longo salão de espelhos onde a nobreza praticava sua postura e marcha, qualquer intruso mortal que entrar neste salão encontrará uma recriação mágica da destruição do salão. Estilhaços de vidro de espelho e ruínas flamejantes serão lançados contra qualquer um que permanecer no salão por muito tempo.
+- ***Neverneath***. As catacumbas sob o castelo, conhecidas como "Neverneath", possuem um encantamento que faz com que o layout labiríntico mude dinamicamente com uma consciência malévola. As estruturas se transformam, criando becos sem saída, túneis que levam de volta a si mesmos ou portas que conduzem a novos locais a cada vez que são abertas. Tudo isso serve para aprisionar os aventureiros até que encontrem seu fim, provavelmente pelas garras das inúmeras [gárgulas](/monster/gargoyle) das catacumbas.
+- ***A Cripta dos Nove***. Este túmulo é o local de descanso dos nove guarda-costas da linhagem real de Neverwinter. A Cripta contém uma câmara externa com tochas eternas que iluminam o ambiente quando mortais entram. Mortos-vivos espreitam nas sombras desta câmara externa. A câmara interna, selada atrás de uma porta de pedra gigante com o brasão de Neverwinter, possui nove caixões de mármore que circundam um trono. Os visitantes que conseguirem chegar à câmara interna da Cripta dos Nove e descansar por lá poderão acordar e encontrar os espíritos dos Nove em vigília sobre eles.
 
 (print-column)
 
-#### Restoring Castle Never
+#### Restauração do Castelo Never
 
-Lord Dagult Neverember has made it one of the city's priorities to see to the restoration of Castle Never. This is a tremendous undertaking that is likely to take years or decades. Neverember sees the endeavor as a worthwhile symbolic pursuit of the city's rejuvenation.
+Lorde Dagult Neverember tornou a restauração do Castelo Never uma das prioridades da cidade. Trata-se de uma empreitada gigantesca que provavelmente levará anos ou décadas. Neverember vê o empreendimento como uma busca simbólica valiosa pela revitalização da cidade.
 
-Grimly, one of the first portions of the castle that *has* been restored to functional use is its dungeons. Neverember has directed that those in Neverwinter convicted of high crimes be placed in castle dungeons, referred to as "The Holes" by the locals. Executions happen daily, at noon, in The Holes — generally two days from when the prisoner is sent to The Holes.
+De forma sombria, uma das primeiras partes do castelo a *ser* restaurada e funcional foram suas masmorras. Neverember determinou que os condenados por crimes graves em Neverwinter sejam colocados nas masmorras do castelo, chamadas de "Os Buracos" pelos locais. As execuções acontecem diariamente, ao meio-dia, nos Buracos — geralmente dois dias após o prisioneiro ser enviado para Os Buracos.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Murderous Merchants***. The restoration of Castle Never has come at the cost of high taxation to the populace of Neverwinter. This has upset some powerful merchants with deep pockets and unsavory company. Lord Dagult Neverember knows assassination attempts are likely and tasks the party with his protection and removal of his would-be killers.|
-|***Sentimental Relics***. A now-elderly Neverwinter noble lost a loved one in the castle's destruction nearly half a century ago. The elderly noble tasks the party with entry into the ruined castle to retrieve a sentimental relic from the body of their lost lover.|
-|***Construction Blocked***. Crews overseeing the Castle's restoration know ghosts and other monsters will need to be cleared from the castle. Lord Neverember has hired warriors and mages to help with this. However, construction has stopped because the crew found a magical barrier they cannot get across. The party must investigate a way to get construction rolling again.|
+|***Mercadores Assassinos***. A restauração do Castelo Never teve como consequência o aumento dos impostos para a população de Neverwinter. Isso desagradou alguns poderosos mercadores com bolsos fundos e companhias duvidosas. Lorde Dagult Neverember sabe que tentativas de assassinato são prováveis ​​e encarrega o grupo de protegê-lo e eliminar seus potenciais assassinos.|
+|***Relíquias Sentimentais***. Um nobre de Neverwinter, agora idoso, perdeu um ente querido na destruição do castelo há quase meio século. O nobre idoso encarrega o grupo de entrar no castelo em ruínas para recuperar uma relíquia sentimental do corpo de seu amado.|
+|***Construção Bloqueada***. As equipes que supervisionam a restauração do Castelo sabem que fantasmas e outros monstros precisarão ser removidos do castelo. Lorde Neverember contratou guerreiros e magos para ajudar nisso. No entanto, a construção foi interrompida porque a equipe encontrou uma barreira mágica que não consegue atravessar. O grupo deve investigar uma maneira de retomar a construção.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Acquisitions Incorporated*, p. 121 - 122, (5th Edition)|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
@@ -60,39 +60,39 @@ Grimly, one of the first portions of the castle that *has* been restored to func
 
 (print-page)
 
-## Protector's Enclave
+## Enclave do Protetor
 
-### The Hall of Justice
+### O Salão da Justiça
 
-The Hall of Justice stands as the primary temple to Tyr, the god of law and justice, in the city of Neverwinter. The Hall's grand stone walls, towering stone pillars, and high domed roof make it an impressive and intimidating structure. Its interior is also large enough to house large races such as giants and dragons.
+O Salão da Justiça ergue-se como o principal templo dedicado a Tyr, o deus da lei e da justiça, na cidade de Neverwinter. Suas grandiosas paredes de pedra, imponentes pilares e cúpula elevada fazem dele uma estrutura imponente e intimidadora. Seu interior é amplo o suficiente para abrigar raças de grande porte, como gigantes e dragões.
 
-Serving as much more than a mere temple to a deity, the Hall of Justice functioned as the city's court for low justice (i.e., excluding crimes where the accused were of noble birth, lacking citizenship, or charged with murder). It also served as a drilling and training ground in disciplined weaponry for those devout followers who served to defend the temple and that for which it stood. The Hall's functions largely ceased with Tyr's death in the late 1300s DR.
+Servindo como muito mais do que um mero templo a uma divindade, o Salão da Justiça funcionava como o tribunal da cidade para crimes de menores (ou seja, excluindo crimes em que os acusados ​​eram de nascimento nobre, não possuíam cidadania ou eram acusados ​​de assassinato). Também servia como campo de treinamento e instrução em armamento para os devotos seguidores que se dedicavam a defender o templo e aquilo que ele representava. As funções do Salão cessaram em grande parte com a morte de Tyr no final dos 1300s CV.
 
-Even after Tyr's death, residents of Neverwinter refused to repurpose the temple to worship other deities. When Lord Neverember arrived in the city, he installed a temporary priesthood of Torm at the location, reasoning there were similarities in religious tenets. He also used the temple as a base for his operations in the city as well as a personal residence. Both actions were met with disapproval by the city's residents.
+Mesmo após a morte de Tyr, os habitantes de Neverwinter se recusaram a reutilizar o templo para o culto a outras divindades. Quando Lorde Neverember chegou à cidade, instalou um sacerdócio temporário de Torm no local, argumentando que havia semelhanças nos preceitos religiosos. Ele também usou o templo como base para suas operações na cidade, bem como residência pessoal. Ambas as ações foram recebidas com desaprovação pelos moradores da cidade.
 
-With Tyr's recent resurrection, the temple has now been rededicated to Tyr, and Lord Neverember now uses a private villa as his personal residence. The Hall's restoration was highly regarded by the citizens of Neverwinter and did much to improve Lord Neverember's esteem with locals. With the Hall of Justice returning to its former glory, it once again serves as the central focal point, in both physical location and spirit, of the Protector's Enclave.
+Com a recente ressurreição de Tyr, o templo foi rededicado a ele, e Lorde Neverember agora usa uma mansão particular como sua residência pessoal. A restauração do Salão foi muito apreciada pelos cidadãos de Neverwinter e contribuiu bastante para melhorar a estima de Lorde Neverember entre os locais. Com o Salão da Justiça retornando à sua antiga glória, ele serve mais uma vez como o ponto focal central, tanto em localização física quanto espíritual, do Enclave do Protetor.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 140 - 141, (4th Edition)|
 |*Volo's Guide to the North*, p. 133 (2nd Edition)|
 {.references}
 
-### The House of Knowledge
+### A Casa do Conhecimento
 
-The House of Knowledge is both a library and the primary temple to Oghma in the city of Neverwinter. Architecturally, it is regarded as one of the most impressive and beautiful structures in the city – featuring abundant windows and an impressive arched roof. Its vast libraries contain many centuries worth of precious records and materials, including modern government documentation as the city lacks a formal seat of government at present.
+A Casa do Conhecimento é tanto uma biblioteca quanto o principal templo de Oghma na cidade de Neverwinter. Arquitetonicamente, é considerada uma das estruturas mais impressionantes e belas da cidade, apresentando janelas abundantes e um imponente teto arqueado. Suas vastas bibliotecas contêm vários séculos de registros e materiais preciosos, incluindo documentação governamental moderna, já que a cidade atualmente não possui uma sede de governo formal.
 
-Like so much of Neverwinter, the House of Knowledge suffered near total destruction with the eruption of Mount Hotenow in 1451 DR. A dedicated young Loremaster, Atlavast, saved much of the library's precious contents by sealing away the temple's inner sanctum and trapping himself inside. Alone and in solitude, Atlavast managed to survive the cataclysm and save multitudes of rare tomes, documents, and artifacts. However, he soon grew reclusive and a little mad from the isolation. He spent his time repeatedly cataloging and reorganizing the library. He grew extremely protective of the content. During this time, the outer sections of the House of Knowledge were taken over by various squatters, including the devil-worshipping Ashmadai cultists.
+Assim como grande parte de Neverwinter, a Casa do Conhecimento sofreu destruição quase total com a erupção do Monte Hotenow em 1451 CV. Um jovem e dedicado Mestre do Conhecimento, Atlavast, salvou grande parte do precioso conteúdo da biblioteca selando o santuário interno do templo e se aprisionando lá dentro. Sozinho e em solidão, Atlavast conseguiu sobreviver ao cataclismo e salvar inúmeros tomos, documentos e artefatos raros. Contudo, ele logo se tornou recluso e um tanto perturbado pelo isolamento. Passou seu tempo catalogando e reorganizando a biblioteca repetidamente. Tornou-se extremamente protetor de seu conteúdo. Durante esse período, as seções externas da Casa do Conhecimento foram ocupadas por diversos invasores, incluindo os cultistas Ashmadai, adoradores do diabo.
 
-Since the chasm's sealing, the faithful of Oghma have returned to the temple and work to restore it as a center of knowledge and learning. The stern Grand Scribe Spivey Liethennson now oversees the House's reconstruction with an iron fist and short temper. The House of Knowledge's exterior has already been largely restored, though much restoration work remains underway on the interior. Still, the house has once again become a functional location for those seeking local lore and records.
+Desde o fechamento do abismo, os fiéis de Oghma retornaram ao templo e trabalham para restaurá-lo como um centro de conhecimento e aprendizado. O severo Grande Escriba Spivey Liethennson agora supervisiona a reconstrução da Casa com mão de ferro e temperamento explosivo. O exterior da Casa do Conhecimento já foi amplamente restaurado, embora muito trabalho de restauração ainda esteja em andamento no interior. Mesmo assim, a casa tornou-se novamente um local funcional para aqueles que buscam conhecimento e registros locais.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Inconvenient Information***. Players seeking specific lore about Neverwinter or the surrounding area would be wise to consider the vast wealth of information stored at the House of Knowledge. However, to access some pieces of knowledge, the party might have to contend with the short fuse of Grand Scribe Liethennson or the cracked, over-protective demeanor of Loremaster Atlavast. Either may make the party prove themselves in some way before they would be trusted with the library's contents.|
+|***Informação Inconveniente***. Jogadores que buscam informações específicas sobre Neverwinter ou a região circundante seriam inteligentes ao considerar a vasta riqueza de informações armazenadas na Casa do Conhecimento. No entanto, para acessar algumas peças de conhecimentos, o grupo pode ter que lidar com o temperamento explosivo do Grande Escriba Liethennson ou com a postura instável e superprotetora do Mestre do Conhecimento Atlavast. Qualquer um deles pode exigir que o grupo prove seu valor de alguma forma antes que lhes seja confiado o conteúdo da biblioteca.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
 |*Acquisitions Incorporated*, p. 122, (5th Edition)|
@@ -102,60 +102,62 @@ Since the chasm's sealing, the faithful of Oghma have returned to the temple and
 
 (print-page)
 
-![The Moonstone Mask](PrintImages/MoonstoneMaskCover.jpg){.size-cover .no-margin .print-only}
+![A Máscara de Pedra da Lua](PrintImages/MoonstoneMaskCover.jpg){.size-cover .no-margin .print-only}
 
-## The Floating Earthmotes
+## As Ilhas Flutuantes
 
-One of the most enchanting features of the city of Neverwinter is its three large floating earthmotes. The Spellplague of 1385 DR caused chunks of Neverwinter (as well as other areas all over Toril) to rise up and begin floating away. Industrious residents of Neverwinter were able to tether a few of these earthmotes with ropes and prevent them from ultimately flying off into the Sword Coast.
+Uma das características mais encantadoras da cidade de Neverwinter são seus três grandes fragmentos de terra flutuantes. A Praga Mágica de 1385 CV fez com que pedaços de Neverwinter (assim como outras áreas por toda Toril) se elevassem e começassem a flutuar. Os diligentes moradores de Neverwinter conseguiram amarrar algumas dessas ilhas com cordas e impedir que acabassem voando para a Costa da Espada.
 
-![The Moonstone Mask](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
+![A Máscara de Pedra da Lua](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
 
-### The Moonstone Mask
+### A Máscara de Pedra da Lua
 
-The Moonstone Mask is a large inn that sits on a floating earthmote connected to the docks of the Protector's Enclave section of Neverwinter. It is regarded by many as Neverwinter's finest, most luxurious inn. The locale is named for the half-masks worn by all of its staff, which are lined with glowing moonstones.
+A Máscara de Pedra da Lua é uma grande estalagem situada em uma ilha flutuante conectado aos cais da seção Enclave do Protetor de Neverwinter. É considerada por muitos como a estalagem mais refinada e luxuosa de Neverwinter. O local recebeu esse nome devido às meias-máscaras usadas por todos os seus funcionários, que são revestidas com pedras da lua brilhantes.
 
 (print-column)
 
-#### The Mask's Staff
+#### A Equipe da Máscara
 
-One might assume the Moonstone Mask's impeccable accommodations and unparalleled views are what entices its patrons, but it is actually the Mask's staff that are the inn's primary draw. The serving staff are all trained to be expertly-skilled companions as well as friendly and loyal confidants. The staff can be expected to offer erudite conversation and skill in a variety of games. It is this companionship that has made the Moonstone Mask a destination for the people of high rank and wealth for over a century. 
+Pode-se supor que as acomodações impecáveis ​​e as vistas incomparáveis ​​da Máscara da Pedra da Lua sejam o que atrai seus clientes, mas, na verdade, é a equipe da Máscara que constitui o principal atrativo da estalagem. Os funcionários são treinados para serem companheiros habilidosos, além de confidentes leais e amigáveis. Espera-se que a equipe ofereça conversas eruditas e demonstre destreza em diversos jogos. É essa companhia que tornou a Máscara da Pedra da Lua um destino para pessoas de alta posição e riqueza por mais de um século.
 
-![Lady of the Moonstone Mask](Images/MoonstoneMaskLady.jpg =320x){.print-bottom-right .with-margin}
+![Dama da Máscara da Pedra da Lua](Images/MoonstoneMaskLady.jpg =320x){.print-bottom-right .with-margin}
 
 (print-page)
 
-While the Moonstone Mask no longer employs only women as its serving staff, all of the customer-facing employees are exceptionally attractive. The Moonstone Mask's staff are all dressed in sheer black, each also wearing the inn's namesake masks and an amulet. However, these clothing items are no simple uniform. The masks provide the wearer with the abilities of Dark Vision or Infravision, allowing all of the staff to gracefully traverse dim or darkened areas of the inn. The amulets, also magical, provide the staff immunity from mind-reading or control — an important quality given how much sensitive information the inn's companions are entrusted with. The amulets also allow magical communication with the inn's proprietor using only silent-thought — an important security feature were an employee to ever encounter an unruly or unsavory guest.
+Embora a Máscara da Pedra da Lua não empregue mais apenas mulheres como funcionárias, todas as funcionárias que lidam diretamente com os clientes são excepcionalmente atraentes. Todas as funcionárias da Máscara da Pedra da Lua vestem-se de preto translúcido, cada uma usando também as máscaras que dão nome à hospedaria e um amuleto. No entanto, essas vestimentas não são um simples uniforme. As máscaras concedem ao usuário as habilidades de Visão no Escuro ou Infravisão, permitindo que todos os funcionários se movam com desenvoltura pelas áreas escuras ou pouco iluminadas da estalagem. Os amuletos, também mágicos, conferem aos funcionários imunidade à leitura ou controle mental — uma qualidade importante, considerando a quantidade de informações sensíveis que os companheiros da estalagem recebem. Os amuletos também permitem a comunicação mágica com a proprietária da estalagem usando apenas o pensamento silencioso — um importante recurso de segurança caso algum funcionário se depare com um hóspede indisciplinado ou desagradável.
 
-Liset Cheldar, a half-elf woman, currently serves as the Moonstone Masks' proprietor. Liset is presumed to be the descendant of the Moonstone Masks' previous owner, Ophala Cheldarstorn. Unlike Ophala, who was a powerful mage, Liset does not appear to possess such powers. Liset is friendly and known to flirt with guests.
+Liset Cheldar, uma mulher meio-elfa, é a atual proprietária da Máscara da Pedra da Lua. Presume-se que Liset seja descendente da antiga dona da estalagem, Ophala Cheldarstorn. Ao contrário de Ophala, que era uma maga poderosa, Liset não parece possuir tais poderes. Liset é amigável e conhecida por flertar com os hóspedes.
 
-#### The Mask's Amenities
+#### Comodidades do Mask
 
-The inn features a large, warm, and inviting ground floor dining room. The room also serves as a comfortable lounge with an impressive hearth. The rest of the first floor is taken up by kitchens dedicated to preparing haute cuisine for the inn's many guests. A grand, spiraling staircase leads up from the dining room to the guest rooms above. The atmosphere of the dining room is generally relaxed with polite conversations occurring throughout.
+A pousada dispõe de um amplo, acolhedor e convidativo salão de jantar no térreo. O espaço também funciona como um confortável lounge com uma imponente lareira. O restante do primeiro andar é ocupado por cozinhas dedicadas à preparação de alta gastronomia para os muitos hóspedes da pousada. Uma grande escadaria em espiral leva do salão de jantar aos quartos de hóspedes no andar superior. A atmosfera do salão de jantar é geralmente descontraído, com conversas agradáveis ​​acontecendo por todo o espaço.
 
-Guest rooms occupy the second through fourth floors. The rooms range in size from single-bed studios to large suites on the upper floors. All feature comfortable beds and luscious fur rugs. Guests staying in the inn's rooms can expect meals to be included with the price of their stay, but alcohol can cost extra. Naturally, the Mask features an impressive selection of fine libations.
+Os quartos de hóspedes ocupam do segundo ao quarto andar. Os quartos variam em tamanho, de estúdios com uma única cama a grandes suítes nos andares superiores. Todos contam com camas confortáveis ​​e luxuosos tapetes de pele. Os hóspedes que se hospedam nos quartos da pousada podem esperar que as refeições estejam incluídas no preço da estadia, mas bebidas são cobradas à parte. Naturalmente, a Máscara oferece uma impressionante seleção de bebidas requintadas.
 
-For guests travelling through the most elaborate means, the roof features a special landing for winged steeds. It is rumored the Mask is laden with hidden wall panels that can open up for secretive travel within the inn itself. The staff is said to open these panels by speaking certain magical words. The fifth floor, directly below the penthouse suites, houses a lively festhall with music and dancing. The aforementioned magical soundproofing ensures this doesn't disturb any of the guests.
+Para os hóspedes que viajam pelos meios mais elaborados, o telhado possui um pouso especial para cavalos alados. Há rumores de que a Máscara está repleto de painéis de parede ocultos que podem ser abertos para viagens secretas dentro da própria pousada. Dizem que os funcionários abrem esses painéis pronunciando certas palavras mágicas. O quinto andar, diretamente abaixo das suítes da cobertura, abriga um animado salão de festas com música e dança. O já mencionado isolamento acústico mágico garante que isso não perturbe nenhum dos hóspedes.
 
 (print-column)
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Knowledge Base***. Liset and the other Moonstone Mask staff would possess a wealth of information and rumors about the city. They'd never offer up confidential information about one of their clients, but they would be able to inform adventurers about non-confidential events and rumors.|
-|***Good Company***. It wouldn't be uncommon or surprising to find notable figures at the Moonstone Mask, including Lord Dagult Neverember himself. Use this location as a place for notable run-ins.|
-|***Baubles in the Basement***. If players were able to creep around the various storage rooms in the Mask's basement without getting caught, they may find all manner of magical items.|
+|***Base de Conhecimento***. Liset e os outros funcionários da Máscara da Pedra da Lua possuiriam ricas informações e rumores sobre a cidade. Eles jamais revelariam informações confidenciais sobre um de seus clientes, mas seriam capazes de informar os aventureiros sobre eventos e rumores não confidenciais.|
+|***Boa Companhia***. Não seria incomum ou surpreendente encontrar figuras notáveis ​​na Máscara da Pedra da Lua, incluindo o próprio Lorde Dagult Neverember. Use este local como um ponto de encontro para figuras ilustres.|
+|***Bugigangas no Porão***. Se os jogadores conseguissem se esgueirar pelos diversos depósitos no porão da Máscara sem serem pegos, poderiam encontrar todo tipo de itens mágicos.|
 {.dmidea}
 
 ![Liset Cheldar](Images/LisetCheldar.jpg =300x)
 
 (print-page)
 
-#### The Mask's History
+#### A História da Máscara
 
-The Moonstone Mask was built by Ophala Cheldarstorn, a mage and member of the Many-Starred Cloak. Ophala is also the creator of the magical masks and amulets worn by the staff. Before the Mask was sent floating above Neverwinter, it was rumored to feature secret entrances where special guests could enter and depart unnoticed. It was also rumored to have basements that connected to tunnels of dwarven-held areas of the Underdark.
+A Máscara de Pedra da Lua foi construída por Ophala Cheldarstorn, uma maga e membro do Manto de Muitas Estrelas. Ophala também é a criadora das máscaras e amuletos mágicos usados ​​pelos funcionários. Antes de a Máscara ser enviada para flutuar sobre Neverwinter, havia rumores de que ela possuía entradas secretas por onde hóspedes especiais podiam entrar e sair sem serem notados. Também havia rumores de que ela tinha porões que se conectavam a túneis de áreas anãs de Umbreterna.
+
+Em meados de 1400 CV, a estalagem derivou para o Mar de Espadas depois que a erupção do Monte Hotenow rompeu as cordas que a prendiam. As cordas que a prendiam foram eventualmente substituídas por grandes e resistentes correntes, mas somente depois que a estalagem ficou à deriva no Mar de Espadas por meses. Mesmo depois que a Máscara finalmente retornou a Neverwinter, ela acabou atraindo poucos hóspedes, faliu e fechou as portas por algumas décadas. Após Lorde Dagult Neverember iniciar seu movimento "Nova Neverwinter" para reconstruir Neverwinter, Liset Cheldar conseguiu não apenas convencer Neverember de que era a legítima herdeira da Máscara de Pedra da Lua, mas também obter sua ajuda para financiar a restauração da estalagem, devolvendo-lhe grande parte de sua antiga glória sob a administração de Ophala Cheldarstorn. Em retribuição, a estalagem serviu frequentemente para hospedar Neverember e muitos de seus mercenários e oficiais durante as décadas de 1470 e 1480 CV.
 
 In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption of Mount Hotenow snapped the inn's rope tethers.  The ropes tethering the inn were eventually replaced by large, sturdy chains, but only after the inn went drifting over the Sea of Swords for months. Even after the Mask was finally returned to Neverwinter, it ultimately attracted too few guests, became insolvent, and shuttered for a few decades. After Lord Dagult Neverember started his "New Neverwinter" movement to begin rebuilding Neverwinter, Liset Cheldar was able to not only convince Neverember that she was the rightful heir of the Moonstone Mask, but also able to have him help fund the restoration of the inn to much of its former glory under Ophala Cheldarstorn. In repayment the inn served to often house Neverember and many of his mercenaries and officers throughout the 1470s and 1480s DR.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 142 - 143, (4th Edition)|
 |*Storm Over Neverwinter*, p. 8 - 11 (4th Edition)|
@@ -163,34 +165,34 @@ In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption o
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
 
-### Pirates' Skyhold
+### Fortaleza Celeste dos Piratas
 
-Northwest of Neverwinter, just off the Sword Coast, is another floating earthmote referred to as "Pirates' Skyhold". Soon after the Spellplague, some pirates in the area noted the earthmote could serve as a defensible base in the coasts they roamed. One band of pirates, in possession of a skyship, claimed the earthmote as their own and built up modest wooden fortifications on the earthmote.
+A noroeste de Neverwinter, perto da Costa da Espada, encontra-se outra ilha flutuante conhecida como "Fortaleza Celeste dos Piratas". Logo após a Praga Mágica, alguns piratas da região perceberam que a ilha flutuante poderia servir como uma base defensável nas costas que percorriam. Um bando de piratas, possuindo uma nau voadora, reivindicou a ilha flutuante como sua e construiu modestas fortificações de madeira sobre ela.
 
-A mysterious tragedy befell the skyhold that left most, if not all, of its pirate residents dead or missing. Their skyship remains docked on the earthmote as an eerie reminder of its abandonment. No one knows precisely what happened on the skyhold, but scores of rumors about the location circulate in Neverwinter. Some claim a dragon took the skyhold, others claim it is being inhabited by Netherese, while still others claim it is haunted by all manner of ghosts.
+Uma tragédia misteriosa assolou a fortaleza, deixando a maioria, senão todos, os piratas residentes mortos ou desaparecidos. Sua nau voadora permanece atracada na ilha flutuante como uma lembrança sinistra de seu abandono. Ninguém sabe ao certo o que aconteceu na fortaleza, mas inúmeros rumores sobre o local circulam em Neverwinter. Alguns afirmam que um dragão tomou a fortaleza, outros dizem que ela é habitada por nethereses, enquanto outros ainda afirmam que é assombrada por todos os tipos de fantasmas.
 
-It is also rumored that a hoard of treasure still exists on the earthmote. The pirates were reported to store their booty in the skyhold, and given their sudden demise, it is thought the treasure must surely still be on the earthmote somewhere. Getting to the skyhold, however, is no easy feat. Some form of aerial or magical transportation will need to be procured to access the area.
+Há também rumores de que um baú do tesouro ainda existe na ilha flutuante. Consta que os piratas guardavam seus tesouros no forte celeste e, dada a sua morte repentina, acredita-se que o tesouro ainda esteja em algum lugar na ilha flutuante. Chegar ao forte celeste, no entanto, não é tarefa fácil. Será necessário algum tipo de transporte aéreo ou mágico para acessar a área.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***An Open Book***. Per the Neverwinter Campaign Setting of Fourth Edition, the Pirate's Skyhold was intentionally left mysterious and open for Dungeon Masters to create their own adventures at the location.|
-|***Dragon's Hoard***. It's well-known dragons love a good hoard! A younger dragon may have attacked the Skyhold, slain all the inhabitants, and kept the pirates' booty as its very own hoard.|
-|***Zombie Pirates***. The god of death, Myrkul, has been very active in the area (see [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip) and the [Beyond Dragon of Icespire Peak](https://www.dndbeyond.com/essentials/continue-the-adventure) trilogy). Undead have overrun the Skyhold and turned it into a fort of the damned. The Death Knight-Dreadnaught is eerily anchored below the earthmote.|
-|***I'll Take One of Each***. Myrkul has sent a [Dracolich](/monster/adult-blue-dracolich){.red} or [Ghost Dragon](/monster/ghost-dragon){.red} to the Skyhold, where it sits on a hoard of pirate booty and lords over an army of undead pirates!|
+|***Um Livro Aberto***. De acordo com o *Neverwinter Campaign Setting* da Quarta Edição, a Fortaleza Celeste dos Piratas foi intencionalmente deixado misterioso e aberto para que os Mestres de Jogo criassem suas próprias aventuras no local.|
+|***Tesouro do Dragão***. É sabido que os dragões adoram um bom tesouro! Um dragão mais jovem pode ter atacado a Fortaleza Celeste, matado todos os habitantes e ficado com os espólios dos piratas como seu próprio tesouro.|
+|***Piratas Zumbis***. O deus da morte, Myrkul, tem estado muito ativo na área (veja [Dragão do Pico da Espiral de Gelo](https://www.dndbeyond.com/sources/doip) e a trilogia [Além do Dragão do Pico da Espiral de Gelo](https://www.dndbeyond.com/essentials/continue-the-adventure)). Mortos-vivos invadiram a Fortaleza Celeste e o transformaram em um forte dos condenados. O Cavaleiro da Morte-Dreadnaught está ancorado de forma sinistra abaixo da ilha flutuante.|
+|***Quero Um de Cada!***. Myrkul enviou um [Dracolich](/monster/adult-blue-dracolich){.red} ou um [Dragão Fantasma](/monster/ghost-dragon){.red} para a Fortaleza Celeste, onde ele repousa sobre um tesouro de piratas e comanda um exército de piratas mortos-vivos!|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |1 - *Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
 
-### Fisher's Float
+### Balsa do Pescador
 
-Fisher's Float is an earthmote just southwest of Neverwinter that a hearty guild of fishermen has made their home and business headquarters. The homes and warehouses visible on the earthmote are austere by all accounts. The small, wooden shanties certainly imply that the fishers and sailors that call the Float their home are not living indulgent lifestyles.
+A Balsa do Pescador é uma ilha flutuante a sudoeste de Neverwinter, que uma robusta guilda de pescadores escolheu como lar e sede de seus negócios. As casas e armazéns visíveis na ilha são austeros, segundo todos os relatos. Os pequenos barracos de madeira certamente sugerem que os pescadores e marinheiros que chamam a Balsa de lar não levam uma vida de luxo.
 
-While these fishermen peacefully supply a massive portion of Neverwinter's seafood, they also manage to keep largely to themselves. As a result, there exist plenty of rumors about the goings-on of Fisher's Float. One particularly prevalent rumor is that the residents of Fisher's Float are in some form of allegiance with evil sea gods and/or sea monsters.
+Embora esses pescadores forneçam pacificamente uma grande parte dos frutos do mar de Neverwinter, eles também conseguem manter-se bastante reservados. Como resultado, existem muitos rumores sobre o que acontece na Balsa dos Pescadores. Um rumor particularmente difundido é que os moradores da Balsa do Pescador têm algum tipo de aliança com deuses marinhos malignos e/ou monstros marinhos.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
