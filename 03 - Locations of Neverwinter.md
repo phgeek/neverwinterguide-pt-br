@@ -199,69 +199,69 @@ Embora esses pescadores forneçam pacificamente uma grande parte dos frutos do m
 
 (print-page-single-column)
 
-## Neverwinter's Docks
+## Docas de Neverwinter
 
-![The Beached Leviathan](Images/POICards/BeachedLeviathan.webp){.size-full .screen-only .before-next-page-header}
+![O Leviatã Encalhado](Images/POICards/BeachedLeviathan.webp){.size-full .screen-only .before-next-page-header}
 
-### The Beached Leviathan
+### O Leviatã Encalhado
 
-The Leviathan was an infamous pirate vessel that prowled up and down the Sword Coast, striking terror into those that crossed its path. The Leviathan's captain, Harrag, was a fearsome foe to any that met him at sea, and no sailors felt their treasure safe while Harrag was out hunting on the Sea of Swords. Sometime after the eruption of Mount Hotenow, the Leviathan ran aground in northern Neverwinter and punctured its hull. Rather than abandon his ship, Harrag stayed with it as the city's docks were rebuilt around the ship (part of the general reconstruction efforts of the time). Harrag oversaw the ship's conversion from a wreck into a thriving inn and tavern.
+O Leviatã era um infame navio pirata que rondava a Costa da Espada, aterrorizando aqueles que cruzavam seu caminho. O capitão do Leviatã, Harrag, era um adversário temível para qualquer um que o encontrasse no mar, e nenhum marinheiro se sentia seguro com seu tesouro enquanto Harrag estivesse caçando no Mar das Espadas. Algum tempo depois da erupção do Monte Hotenow, o Leviatã encalhou no norte de Neverwinter e teve seu casco perfurado. Em vez de abandonar seu navio, Harrag permaneceu a bordo enquanto as docas da cidade eram reconstruídas ao redor dele (parte dos esforços gerais de reconstrução da época). Harrag supervisionou a transformação do navio, de um naufrágio, em uma próspera estalagem e taverna.
 
-![The Beached Leviathan](Images/BeachedLeviathan.jpg){.image-beached-leviathan}
+![O Leviatã Encalhado](Images/BeachedLeviathan.jpg){.image-beached-leviathan}
 
-#### Walking the Planks
+#### Andando nas Pranchas
 
-The ship is divided into three levels for guests. The first level ("the hold"), entered from the docks, hosts the Beached Leviathan's kitchen and tavern. The tavern has a large number of tables fit for parties of all sizes. The second level ("the quarters") hosts an inn with 12 rooms of various sizes for rent, and the third level ("the deck") features private parlor rooms and tables that can be rented for a heftier price. Atop "the deck" is an extra upper cabin that serves as Captain Harrag's private quarters. The decks' various levels are accessible via a small spiral staircase at the center of the ship. In addition, a pulley-operated lift can transport goods between each of the levels via a small shaft that extends through each of the levels.
+O navio é dividido em três níveis para os hóspedes. O primeiro nível ("o porão"), com entrada pelas docas, abriga a cozinha e a taverna do Leviatã Encalhado. A taverna possui um grande número de mesas adequadas para grupos de todos os tamanhos. O segundo nível ("os aposentos") abriga uma hospedaria com 12 quartos de tamanhos variados para alugar, e o terceiro nível ("o convés") dispõe de salas de estar privativas e mesas que podem ser alugadas por um preço mais elevado. Acima do "convés" encontra-se uma cabine superior extra que serve como aposentos privados do Capitão Harrag. Os vários níveis dos conveses são acessíveis por uma pequena escada em espiral no centro do navio. Além disso, um elevador operado por polia transporta mercadorias entre os níveis através de um pequeno poço que atravessa cada um deles.
 
-The entire ship is decorated with nautically-themed paraphernalia, many of which are trophies from Harrag's past conquests. The interior of the ship and its furnishing are well-crafted, featuring fancy oak and cherry woodwork. However, years of patrons coming, going, and brawling have left the finely-crafted interior well-worn.
+Todo o navio é decorado com parafernália de temática náutica, muitos dos quais são troféus das conquistas passadas de Harrag. O interior do navio e sua mobília são de excelente acabamento, apresentando trabalhos requintados em madeira de carvalho e cerejeira. No entanto, anos de clientes entrando, saindo e brigas deixaram o interior finamente trabalhado bastante desgastado.
 
-#### Grog and Gangs
+#### Grogues and Gangues
 
-The clientele of the Beached Leviathan are generally a humble, mixed bunch. Any with coin to spend are welcome at the tavern. Frequent patrons include sailors as well as more land-bound residents of Neverwinter. Both staff and patrons frequently use nautical slang in the tavern (e.g., referring to a drunkard as "ballast" or calling a newcomer a "privateer"). It's very common for landlubbing visitors to feel a bit lost when it comes to parsing the sailors' dialect. Gambling and brawling are both frequent occurrences, though the latter is likely to get you promptly tossed off the ship.
+A clientela do Leviatã Encalhado é geralmente humilde e heterogênea. Qualquer um com dinheiro para gastar é bem-vindo à taverna. Frequentadores assíduos incluem marinheiros, bem como moradores de Neverwinter que vivem em terra firme. Tanto os funcionários quanto os clientes usam frequentemente gírias náuticas na taverna (por exemplo, chamando um bêbado de "lastro" ou um recém-chegado de "corsário"). É muito comum que os visitantes de terra firme se sintam um pouco perdidos ao tentar entender o dialeto dos marinheiros. Jogos de azar e brigas são frequentes, embora a última provavelmente resulte em uma expulsão imediata do navio.
 
-It's also extremely common to find any number of seedy factions represented at the Beached Leviathan. Commonly sighted at the tavern are smugglers, thieves, and press gangs. To these ilk, the Beached Leviathan serves as an important place of business. Deals are made, trades are performed, and the occasional drunken sailor is enslaved. All of this is relatively well-known to Lord Neverember and his forces, who often also discretely monitor the tavern to keep abreast of the city's seedy underbelly. Neverember and his watch, however, almost never intercede in these foul dealings, choosing instead to keep the tavern as a reliable source of information.
-
-(print-page)
-
-#### Loyal Shipmates
-
-An establishment like the Beached Leviathan couldn't exist without a fearless captain and a hearty crew to support him. The Beached Leviathan has a colorful collection of staff and regulars that make the location such an interesting place. Becoming a regular at the tavern is likely to earn one an apt, nautically-themed nickname.
-
-***Captain Harrag.*** Captain Harrag is a burly, hairy man with only one leg (he lost the other in a fight with sahuagin). He has a fearsome and gruff exterior, but those who know him closest are aware that the man possesses an impressive amount of compassion and empathy. The Beached Leviathan is a true labor of love for the Captain, and he takes immense pride in the establishment. That said, Harrag is no pushover. Harrag will not shy away from securing good deals for his business even if the tactics demand he be cutthroat. Likewise, those that threaten the establishment will be swiftly and strongly dealt with.
-
-![Captain Harrag](Images/CaptainHarrag.jpg =290x)
-
-##### Staff ("Crew")
-
-***Andrella.*** "Mate" - Andrella is Harrag's right hand. A middle-aged, human woman, she is the lead barmaid (Jyseria, Sandrine, and Willow being the other barmaids). She leads the staff when Harrag isn't around and cares very deeply for Harrag. She has developed somewhat of a secret, unrequited love for the Captain.
-
-***Feng.*** A very large half-orc male, Feng serves as the tavern's bouncer.
-
-***Tabnab.*** An oddball human male, Tabnab is the inn's cook.
-
-##### Regulars
-
-***Len-jes.*** "Harbormaster" - Len-jes, a female scarred watersoul genasi, is actually the harbormaster of Neverwinter. She rents a room in the Beached Leviathan semiregularly.
-
-***Umi.*** "Helmswoman" - Umi, also a female watersoul genasi, is Len-jes's cousin and serves as backup to Feng if a situation at the tavern becomes too rowdy. She's highly skilled with the sword.
-
-***Bobrik Highmantle.*** "Bosun" - Bobrik, a stout male dwarf with a pet monkey, is a regular fixture at the bar. He has a fiery temper that occasionally gets him kicked out of the tavern for a few days. 
-
-***Markul.*** "Lookout" - Markul, a young human man, is constantly listening to all the goings-on at the tavern. For the right price, he's willing to share the secrets he has learned, as long as they aren't secrets that he perceives would harm the Leviathan.
-
-***Ettain.*** "Caulker" - Ettain, a half-elf male, works as the ship's handyman. He's a skilled carpenter that can repair the ship as well as craft or repair its furniture when needed. He knows every square inch of the ship, including its secrets.
-
-***Korin.*** "Chanteyman" - Korin, a middle-aged male dragonborn bard, plays music and sings at the tavern. He is often known to get the whole bar singing sea shanties and folk songs. He gladly accepts tips and drinks. His family was slaughtered by cultists, which he will sometimes work into a sorrow-laden dirge.
+Também é extremamente comum encontrar diversas facções sórdidas representadas no Leviatã Encalhado. Contrabandistas, ladrões e recrutadores à força são frequentemente vistos na taverna. Para esses tipos, o Leviatã Encalhado serve como um importante ponto de encontro. Negócios são fechados, trocas são realizadas e, ocasionalmente, algum marinheiro bêbado é escravizado. Tudo isso é relativamente conhecido por Lorde Neverember e suas forças, que frequentemente monitoram discretamente a taverna para se manterem a par dos negócios escusos da cidade. Neverember e sua guarda, contudo, quase nunca interferem nessas transações ilícitas, preferindo manter a taverna como uma fonte confiável de informações.
 
 (print-page)
 
-#### Stormy Waters
+#### Companheiros Leais
 
-Throughout its relatively brief history in Neverwinter, the Beached Leviathan has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Neverember's own involvement with the locale. It was with Neverember's support and patronage that Harrag was able to create the establishment at all — as Neverember was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true Neverember loyalist. Lord Neverember absolutely uses Harrag for his own ambitions. Neverember even went so far as to turn Harrag's own shadow into a sentient creature used to spy on the facility. 
+Um estabelecimento como o Leviatã Encalhado não existiria sem um capitão destemido e uma tripulação leal para apoiá-lo. O Leviatã Encalhado possui uma equipe diversificada de funcionários e frequentadores que tornam o local um ponto interessante. Tornar-se um frequentador da taverna provavelmente lhe renderá um apelido apropriado com temática náutica.
 
-In 1479, as part of the scuffle over the true heir to the throne of Neverwinter and the lost crown of Alagondar, the Leviathan was attacked by furious Neverwinter members. The Leviathan was only saved because of intervention from adventurers and Neverember’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
+***Capitão Harrag.*** O Capitão Harrag é um homem corpulento e peludo, com apenas uma perna (perdeu a outra em uma luta com sahuagin). Ele tem uma aparência temível e rude, mas aqueles que o conhecem melhor sabem que ele possui uma impressionante compaixão e empatia. O Leviatã Encalhado é um verdadeiro projeto de amor para o Capitão, e ele se orgulha imensamente do estabelecimento. Dito isso, Harrag não é alguém que se deixa intimidar. Ele não hesitará em garantir bons acordos para seu negócio, mesmo que isso signifique usar táticas implacáveis. Da mesma forma, aqueles que ameaçarem o estabelecimento serão tratados com rapidez e firmeza.
 
-|![Book](book.svg)**Read More**|
+![Capitão Harrag](Images/CaptainHarrag.jpg =290x)
+
+##### Equipe ("Tripulação")
+
+***Andrella.*** "Companheira" - Andrella é o braço direito de Harrag. Uma humana de meia-idade, ela é a chefe das garçonetes (Jyseria, Sandrine e Willow são as outras garçonetes). Ela lidera a equipe quando Harrag não está por perto e tem um carinho enorme por ele. Ela desenvolveu uma espécie de amor secreto e não correspondido pelo Capitão.
+
+***Feng.*** Um meio-orc muito grande, Feng trabalha como segurança da taverna.
+
+***Tabnab.*** Um humano excêntrico, Tabnab é o cozinheiro da estalagem.
+
+##### Frequentadores
+
+***Len-jes.*** "Mestra do Porto" - Len-jes, uma genasi da água com cicatrizes, é na verdade a mestra do porto de Neverwinter. Ela aluga um quarto no Leviatã Encalhado com certa frequência.
+
+***Umi.*** "Timoneira" - Umi, também uma genasi da água, é prima de Len-jes e serve como apoio para Feng caso a situação na taverna fique muito tumultuada. Ela é extremamente habilidosa com a espada.
+
+***Bobrik Highmantle.*** "Contramestre" - Bobrik, um anão robusto com um macaco de estimação, é presença constante no bar. Ele tem um temperamento explosivo que ocasionalmente o faz ser expulso da taverna por alguns dias.
+
+***Markul.*** "Vigia" - Markul, um jovem humano, está constantemente atento a tudo o que acontece na taverna. Pelo preço certo, ele está disposto a compartilhar os segredos que aprendeu, contanto que não sejam segredos que ele considere prejudiciais ao Leviatã.
+
+***Ettain.*** "Calafetador" - Ettain, um meio-elfo, trabalha como faz-tudo do navio. Ele é um carpinteiro habilidoso que pode consertar o navio, bem como fabricar ou reparar seus móveis quando necessário. Ele conhece cada centímetro quadrado do navio, incluindo seus segredos.
+
+***Korin.*** "Cantor" - Korin, um bardo dracônico de meia-idade, toca música e canta na taverna. Ele costuma fazer todo o bar cantar canções de marinheiros e folclóricas. Ele aceita gorjetas e bebidas de bom grado. Sua família foi massacrada por cultistas, o que ele às vezes transforma em uma canção fúnebre carregada de tristeza.
+
+(print-page)
+
+#### Águas Turbulentas
+
+Ao longo de sua história relativamente curta em Neverwinter, o Leviatã Encalhado se viu envolvido em conflitos muito além de sua posição aparentemente humilde. Isso se deve, em grande parte, ao tipo de apoio permitido no Leviatã, além do próprio envolvimento de Lorde Neverember com o local. Foi com o apoio e subsídio de Neverember que Harrag conseguiu criar o estabelecimento — já que Neverember foi, em última análise, quem apagou os registros de seus inúmeros crimes em alto-mar. Isso fez de Harrag leal a Neverember. Lorde Neverember usa Harrag para suas próprias ambições. Neverember chegou ao ponto de transformar a própria sombra de Harrag em uma criatura senciente usada para espionar as instalações.
+
+Em 1479, como parte da disputa pelo verdadeiro herdeiro do trono de Neverwinter e pela coroa perdida de Alagondar, o Leviatã foi atacado por membros furiosos de Neverwinter. O Leviatã só foi salvo graças à intervenção de aventureiros e da General Sabine, a principal general de Neverember. Mais tarde, naquele mesmo ano, cultistas e demônios Ashmadai infiltraram o Leviatã Encalhado e assassinaram um dos principais conselheiros da General Sabine. Isso fazia parte de um plano maior arquitetado por um poderoso mago chamado Elden Vargas para usar os poderes de Asmodeus para seus próprios fins.
+
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Dungeon*, Issue #193, p. 79 -83, (4th Edition)|
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
@@ -269,85 +269,85 @@ In 1479, as part of the scuffle over the true heir to the throne of Neverwinter 
 |*Storm Over Neverwinter*, p. 17 - 18, (4th Edition)|
 {.references}
 
-### The Driftwood Tavern
+### A Taberna Driftwood
 
-Almost more of a museum than a tavern, the upscale and expensive Driftwood Tavern sits in the northern docks area of Neverwinter. The tavern is one of Neverwinter's older drinking locales — having been in operation since before the Spellplague of 1385 DR. After the cataclysm of 1451 DR, the tavern was used to shelter refugees and served as a makeshift city hall while the city regained some semblance of normalcy.
+Quase mais um museu do que uma taberna, a sofisticada e cara Taberna Driftwood fica na área dos cais do norte de Neverwinter. A taberna é um dos locais de consumo de bebidas mais antigos de Neverwinter — funcionando desde antes da Praga Mágica de 1385 CV. Após o cataclismo de 1451 CV, a taberna foi usada para abrigar refugiados e serviu como prefeitura improvisada enquanto a cidade recuperava alguma aparência de normalidade.
 
-The establishment is chock-full of bric-a-brac. Rather than viewing the establishment as cluttered or disorganized, however, many view it as a beautiful tribute to "Old Neverwinter" and a vital part of preserving the city's history. Indeed, many travelers visit the tavern and pay its high prices for drinks and/or lodging simply to enjoy the relics collected at the establishment.
+O estabelecimento está repleto de quinquilharias. Em vez de considerá-lo desorganizado ou abarrotado, muitos o veem como uma bela homenagem à "Velha Neverwinter" e uma parte vital da preservação da história da cidade. De fato, muitos viajantes visitam a taberna e pagam seus altos preços por bebidas e/ou hospedagem simplesmente para apreciar as relíquias ali colecionadas.
 
-Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she was secretly the leader of the Sons of Alagondar (i.e., the Graycloaks), a rebel group that opposed Lord Neverember's rule in the city. The faction, now, has largely made peace with Neverember's rule, many members even enlisting in Neverwinter's army (feeling it better that they control their own army rather than continuing to let Mintarn mercenaries have power in the city). Madame Rosene is a fount of knowledge regarding the city's history and will happily chat about old times with patrons.
+Madame Rosene, agora com cerca de 70 anos, administra o estabelecimento. Em 1479 CV, ela era secretamente a líder dos Filhos de Alagondar (ou seja, os Mantos Cinzentos), um grupo rebelde que se opunha ao domínio de Lorde Neverember na cidade. A facção, agora, fez as pazes com o governo de Neverember, e muitos membros até se alistaram no exército de Neverwinter (considerando melhor controlar seu próprio exército do que continuar permitindo que mercenários de Mintarn detivessem o poder na cidade). Madame Rosene é uma fonte inesgotável de conhecimento sobre a história da cidade e terá prazer em conversar sobre os velhos tempos com seus clientes.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 52, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
 {.references}
 
-### The Tarmalune Trade House
+### A Casa de Comércio de Tarmalune
 
-A trade cartel from the city of Tarmalune has procured a large warehouse complex on the southern docks of Neverwinter. Outside of the docks, a large swath of stalls and booths have been set up with goods for sale. The Tarmalune merchants are trying desperately to establish a solid trade presence in the area, largely to counter their rival traders from the city of Lylorn that have recently established a trade route in nearby Luskan.
+Um cartel comercial da cidade de Tarmalune adquiriu um grande complexo de armazéns nas docas do sul de Neverwinter. Do lado de fora das docas, uma vasta área de barracas e estandes foi montada com mercadorias à venda. Os mercadores de Tarmalune estão tentando desesperadamente estabelecer uma presença comercial sólida na área, principalmente para combater seus rivais da cidade de Lylorn, que recentemente estabeleceram uma rota comercial na vizinha Luskan.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***No Free Two-Day Shipping***. If your players need something very specific and hard-to-acquire, it would be somewhat reasonable that the Tarmalune's large trade network might be able to procure the item. However, it would *also* be entirely reasonable to expect this favor to come at a high price and to take some time. After all, it takes a long time, a lot of resources, and a lot of risk to sail such a distance in Toril.|
+|***Sem Entrega Grátis em Dois Dias No Free Two-Day Shipping***. Se seus jogadores precisarem de algo muito específico e difícil de obter, seria razoável supor que a extensa rede comercial de Tarmalune pudesse providenciar o item. No entanto, *também* seria perfeitamente razoável esperar que esse favor tivesse um preço alto e levasse algum tempo. Afinal, navegar por uma distância tão grande em Toril exige muito tempo, muitos recursos e envolve muitos riscos.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 147, (4th Edition)|
 {.references}
 
 (print-page)
 
-![Shard of the Moon](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
+![Fragmento da Lua](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
 
 (print-column)
 
-## Tower District
+## Distrito da Torre
 
-![Shard of the Moon](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
+![Fragmento da Lua](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
-### The Shard of the Moon
+### O Fragmento da Lua
 
-The Shard of the Moon, formerly called "The Shard of Night", is a floating tower in the Tower District of Neverwinter. The tower has had a storied journey through both the Material Plane and Plane of Shadow.
+O Fragmento da Lua, anteriormente chamado de "O Fragmento da Noite", é uma torre flutuante no Distrito da Torre de Neverwinter. A torre teve uma jornada repleta de histórias tanto no Plano Material quanto no Plano das Sombras.
 
-The tower began its existence as Moonshadow Hall, over a thousand miles away from Neverwinter, in the city of Yhaunn. In the late 14th century DR, the Shadovar (dwellers of Shadowfell and one of the few remaining factions of Netherese) assaulted the temple and magically tore away one of its towers and sent it to Shadowfell. The Shadovar learned they were able to manifest the tower at arbitrary locations in the mortal realms, and thus placed it strategically floating over Neverwinter during the Spellplague. The Netherese could use a portal in the tower to transport between Xinlenal and Neverwinter. 
+A torre começou sua existência como Salão da Sombra da Lua, a mais de mil quilômetros de Neverwinter, na cidade de Yhaunn. No final do 14॰ século CV, os Shadovar (habitantes de Shadowfell e uma das poucas facções remanescentes dos Nethereses) atacaram o templo e, magicamente, arrancaram uma de suas torres e a enviaram para Shadowfell. Os Shadovar descobriram que podiam manifestar a torre em locais arbitrários nos reinos mortais e, assim, a posicionaram estrategicamente flutuando sobre Neverwinter durante a Praga Mágica. Os Nethereses podiam usar um portal na torre para se transportar entre Xinlenal e Neverwinter.
 
-The tower was darkened black and cast no shadow in the day. This was actually because the temple was magically manipulated to absorb shadow. This shadow, in turn, powered the tower's teleportation devices. The ominous, forboding tower looming overhead was largely avoided by all in Neverwinter as any who ventured inside would never return.
+A torre era completamente escura e não projetava sombra durante o dia. Isso acontecia porque o templo havia sido magicamente manipulado para absorver sombras. Essa sombra, por sua vez, alimentava os dispositivos de teletransporte da torre. A torre sinistra e ameaçadora que se erguia sobre as cabeças era evitada por quase todos em Neverwinter, pois qualquer um que se aventurasse em seu interior jamais retornaria.
 
 ![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}
 
 (print-page)
 
-In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to return to the tower and perform a purification, restoring the tower to its alabaster white appearance. Now, at night when three magical shards are placed within, or below, the floating tower, a stairway of solid moonlight descends from the tower entrance. The priests of Selûne will allow only trusted visitors entrance into the tower. Those particularly-trusted visitors that take a long rest in the tower find that they receive an extra healing surge until they next take a long rest.
+Em 1479 CV, aventureiros invadiram a torre e permitiram que os sacerdotes de Selûne retornassem para realizar uma purificação, restaurando sua aparência branca de alabastro. Agora, à noite, quando três fragmentos mágicos são colocados dentro ou abaixo da torre flutuante, uma escadaria de luar sólido desce da entrada da torre. Os sacerdotes de Selûne permitem a entrada na torre apenas a visitantes de confiança. Aqueles visitantes particularmente confiáveis ​​que descansam na torre percebem que recebem uma cura extra até o próximo descanso longo.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Dungeon*, Issue #193, p. 57 - 78, (4th Edition)|
 |*Neverwinter Campaign Setting*, p. 158, (4th Edition)|
 {.references}
 
-### The Cloak Tower
+### A Torre do Manto
 
-The Cloak Tower is a wizard tower that served as a meeting place and citadel to the Many-Starred Cloak order of wizards. The tower suffered a prolonged occupation by orcs, but has recently returned to the custody of the Order of the Many-Starred Cloaks.
+A Torre do Manto é uma torre de mago que serviu como local de encontro e cidadela para a Ordem do Manto das Muitas Estrelas. A torre sofreu uma longa ocupação por orcs, mas recentemente retornou à custódia da Ordem do Manto das Muitas Estrelas.
 
-#### Vanishing Fortifications
+#### Fortificações Desaparecidas
 
-The Cloak Tower, and all of the wizards within, disappeared during the Spellplague in 1385 DR. The tower mysteriously returned about six months later — albeit in a new location. However, there were no traces of the wizards that had once resided there. 
+A Torre da Capa, e todos os magos que ali viviam, desapareceram durante a Praga Mágica em 1385 CV. A torre misteriosamente retornou cerca de seis meses depois — embora em um novo local. Contudo, não havia vestígios dos magos que ali residiam.
 
-Naturally, once the tower returned to Neverwinter, it didn't take long for thieves to attempt looting the tower. The tower, after all, was thought to contain a wondrous magical device found in a Netherese ruin called "Halavar's Universal Pantograph". The device could reportedly duplicate metal objects that were "the size of a large throne or smaller" — this included coins! However, all the thieves soon perished in the tower, leaving a sole survivor to recount the tales of what was seen.
+Naturalmente, assim que a torre retornou a Neverwinter, não demorou para que ladrões tentassem saqueá-la. Afinal, acreditava-se que a torre continha um maravilhoso dispositivo mágico encontrado em uma ruína netheresa chamado "Pantógrafo Universal de Halavar". O dispositivo supostamente poderia duplicar objetos de metal "do tamanho de um trono grande ou menores" — incluindo moedas! No entanto, todos os ladrões logo pereceram na torre, deixando apenas um sobrevivente para contar as histórias do que viu.
 
-The thieves didn't locate the magical device, and they saw neither wizards nor their bodies. The colorful cloaks mysteriously remained, however, hanging on the pegs where they were left. Suddenly, the colorful cloaks came to life and smothered the thieves to death, save the sole survivor.
+Os ladrões não encontraram o dispositivo mágico e não viram nem os magos nem seus corpos. Os mantos coloridas, porém, misteriosamente permaneceram penduradas nos ganchos onde foram deixadas. De repente, os mantos coloridas ganharam vida e sufocaram os ladrões até a morte, com exceção do único sobrevivente.
 
-#### Orc Infestation
+#### Infestação de Orcs
 
-The Many-Arrows orc tribe invaded the tower and were able to claim it. The Neverwinter residents, assuming the tower was warded by some leftover magical defenses left by the Many-Starred Cloak wizards, thought the orcs too would soon perish in the tower. The orcs, however, seemingly did not meet any resistance in the tower and were able to hold it.
+A tribo orc das Muitas Flechas invadiu a torre e conseguiu tomá-la. Os habitantes de Neverwinter, supondo que a torre estivesse protegida por alguma defesa mágica remanescente dos magos da Ordem dos Mantos de Muitas Estrelas, pensaram que os orcs também pereceriam em breve na torre. Os orcs, no entanto, aparentemente não encontraram resistência na torre e conseguiram mantê-la.
 
-Lord Neverember tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left Neverember simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
+Lorde Neverember tolerou os orcs no local principalmente porque não tinha opção melhor. A torre era, na verdade, um dos locais mais fortificados da cidade, o que fez com que Neverember simplesmente esperasse o momento certo para encontrar uma maneira de livrar a cidade dos orcs. Felizmente, os orcs das Muitas Flechas decidiram desocupar a torre e seguir para o leste para ajudar seus irmãos a lutar contra os anões.
 
-The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with Lord Neverember to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
+A Ordem dos Mantos de Muitas Estrelas voltou à ativa, com alguns membros de alto escalão até mesmo trabalhando com Lorde Neverember para garantir a segurança da região. Presume-se que a custódia da Torre do Manto tenha retornado aos Mantos de Muitas Estrelas.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51 (5th Edition)|
 |*Storm Lord's Wrath*, sec. *House of Thalivar* (5th Edition)|
@@ -355,48 +355,48 @@ The Order of the Many-Starred Cloaks has once again become active with some rank
 |*Volo's Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
-![Many-Arrows Orc Tribe](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
+![Tribo Orc das Muitas Flechas](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
 
 (print-page)
 
-![The Fallen Tower](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
+![A Torre Caída](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
 
-![The Fallen Tower](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
+![A Torre Caída](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
-### The Fallen Tower
+### A Torre Caída
 
-The Fallen Tower is a tavern constructed in the ruins of a wizard's tower. The tavern features a rather unique and macabre nightly spectacle that has kept it a popular drinking location for well over a century.
+A Torre Caída é uma taverna construída nas ruínas da torre de um mago. A taverna oferece um espetáculo noturno único e macabro, que a mantém como um local popular para beber há mais de um século.
 
-#### The Tower's History
+#### A História da Torre
 
-Decades before the Spellplague, the tower was owned by a powerful wizard named Llomnauvel "Firehands" Oloadhin. The Arcane Brotherhood coveted Oloadhin's accumulation of magical items. One night, the Brotherhood violently attacked the tower in an attempt to steal the magical goods and capture Oloadhin. A spectacular magical battle raged throughout the tower. Oloadhin had anticipated the attack and rigged his tower with all manner of magical traps, including maniacal spells that turned the trespassers into lowly sea creatures. However, Oloadhin's traps were ultimately unable to stop the raid. Rather than let the Arcane Brotherhood take his tower and the contents within, the unhinged Oloadhin triggered a final massive spell that destroyed the tower. As the tower fell in a magical blaze, everyone inside perished (including Oloadhin himself).
+Décadas antes da Praga Mágica, a torre pertencia a um poderoso mago chamado Llomnauvel "Mãos de Fogo" Oloadhin. A Irmandade Arcana cobiçava a coleção de itens mágicos de Oloadhin. Certa noite, a Irmandade atacou violentamente a torre numa tentativa de roubar os bens mágicos e capturar Oloadhin. Uma espetacular batalha mágica se travou por toda a torre. Oloadhin havia previsto o ataque e preparado sua torre com todos os tipos de armadilhas mágicas, incluindo feitiços insanos que transformavam os invasores em criaturas marinhas insignificantes. No entanto, as armadilhas de Oloadhin foram incapazes de deter o ataque. Em vez de deixar a Irmandade Arcana tomar sua torre e o conteúdo dela, o desequilibrado Oloadhin lançou um feitiço final e massivo que destruiu a torre. Quando a torre desabou em uma chama mágica, todos dentro dela pereceram (incluindo o próprio Oloadhin).
 
 (print-page)
 
-#### The Nightly Show
+#### O Espetáculo Noturno
 
-Phantasmic remnants of the tower's destruction remain at the location. Every night, at the exact time Llomnauvel triggered the explosion that destroyed the tower, visions of those final moments appear at the ruined base of the tower. These silent magical projections depict Brotherhood mages, ablaze, falling helplessly to their deaths. This is soon followed by the Brotherhood's Overwizard falling similarly while his limbs transform into eels.
+Remanescentes fantasmagóricos da destruição da torre permanecem no local. Todas as noites, no exato momento em que Llomnauvel desencadeou a explosão que destruiu a torre, visões daqueles momentos finais aparecem na base em ruínas da torre. Essas projeções mágicas silenciosas retratam magos da Irmandade, em chamas, caindo indefesos para a morte. Logo em seguida, o Mago Supremo da Irmandade cai da mesma forma, enquanto seus membros se transformam em enguias.
 
-This seemingly harmless magical vision both horrified and fascinated onlookers. Naturally, some entrepreneurial individuals managed to turn this tragic spectacle into entertainment for locals and travelers alike. The base of the tower was renovated into a tavern. The area of the spectacle was railed off, and tables were placed all around it so that patrons may watch the "show" as they sipped on their drinks. Sadly, the tavern eventually gained a reputation for mediocre, overpriced drinks and a steep cover charge. That, combined with the multiple catastrophes that hit Neverwinter in the 15th century DR, eventually left the tavern abandoned.
+Essa visão mágica aparentemente inofensiva horrorizava e fascinava os espectadores. Naturalmente, alguns indivíduos empreendedores conseguiram transformar esse espetáculo trágico em entretenimento para moradores locais e viajantes. A base da torre foi transformada em uma taverna. A área do espetáculo foi cercada por grades e mesas foram colocadas ao redor para que os clientes pudessem assistir ao "espetáculo" enquanto bebiam. Infelizmente, a taverna acabou ganhando a reputação de ter bebidas medíocres e caras, além de uma taxa de entrada exorbitante. Isso, somado às múltiplas catástrofes que atingiram Neverwinter no 15॰ século CV, acabou levando ao seu abandono.
 
-![Vagdru One-Ear](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
+![Vagdru Uma-Orelha](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
 
 (print-column)
 
-#### Under New Management
+#### Sob Nova Administração
 
-The Many-Arrow tribe discovered and started to loot the tavern and its vast wine stores when they invaded Neverwinter's Tower District. One night, in the midst of their looting and revelry at the Fallen Tower, the phantasmic images appeared and scared the orcs out of the building. The orcs eventually mustered their courage and, once realizing the phantom images were harmless, returned to the building.
+A tribo Muitas Flechas descobriu e começou a saquear a taverna e seus vastos estoques de vinho quando invadiram o Distrito da Torre de Neverwinter. Certa noite, em meio aos saques e à festa na Torre Caída, as imagens fantasmagóricas apareceram e assustaram os orcs, fazendo-os fugir do prédio. Os orcs finalmente reuniram coragem e, ao perceberem que as imagens fantasmagóricas eram inofensivas, retornaram ao prédio.
 
-An enterprising single-eared orc named "Vagdru One-Ear" restored the site to being a functioning tavern. By way of a mutual agreement between Lord Neverember and the leadership of the Many-Arrow tribe, the tavern now serves as a neutral ground between the orcs and other races that occupy the city. All are welcome to enjoy the tavern's offerings provided they start no trouble. Any troublemakers that violate this truce are likely to face the immediate wrath of the tavern's regular clientele. The tavern's current offerings, however, are "humble" and priced accordingly. The wine and ale are inexpensive but satisfactory. Raw meat, of an unknown source, is served up to be prepared over an open cook fire.
+Um empreendedor orc de uma orelha só, chamado "Vagdru Uma-Orelha", restaurou o local para ser uma taverna funcional. Por meio de um acordo mútuo entre Lorde Neverember e a liderança da tribo Muitas Flechas, a taverna agora serve como um terreno neutro entre os orcs e outras raças que ocupam a cidade. Todos são bem-vindos para desfrutar das ofertas da taverna, desde que não causem problemas. Quaisquer encrenqueiros que violarem esta trégua provavelmente enfrentarão a ira imediata da clientela habitual da taverna. As opções atuais da taverna, no entanto, são "humildes" e os preços refletem isso. O vinho e a cerveja são baratos, mas satisfatórios. Carne crua, de origem desconhecida, é servida para ser preparada em uma fogueira.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Technical Difficulties***. Something goes wrong, and the previously-benign nightly magical visions of the falling mages become real; the flames of the falling mages scorch patrons. Adventurers must contain the Fallen Towers magic lest the tavern's business be ruined.|
-|***Diplomatic Immunity***. The Fallen Tower is the perfect place to have a parlay between adventurers and some of the less-respected races of Faerûn.|
-|***The Other White Meat***. Vagdru One-Ear tasks the adventurers with heading out into the wilds to slay some gross-looking, level-appropriate monsters (e.g., [Giant Spiders](/monster/giant-spider){.red} or a [Sibriex](/monster/sibriex){.red}!) and return their corpses as proof of their accomplishments. To the adventurers' horror, he serves the monsters' meat to patrons for that night's dinner.|
+|***Dificuldades Técnicas***. Algo dá errado, e as visões mágicas noturnas, antes inofensivas, dos magos caídos tornam-se reais; as chamas dos magos caídos queimam os clientes. Os aventureiros devem conter a magia das Torres Caídas para que os negócios da taverna não sejam arruinados.|
+|***Imunidade Diplomática***. A Torre Caída é o lugar perfeito para uma negociação entre aventureiros e algumas das raças menos respeitadas de Faerûn.|
+|***A Outra Carne Branca***. Vagdru Uma-Orelha encarrega os aventureiros de irem para a floresta para caçar alguns monstros de aparência grotesca, adequados ao nível deles (ex: [Aranhas Gigantes](/monster/giant-spider){.red} ou um [Sibriex](/monster/sibriex){.red}!) e trazer seus cadáveres como prova de suas conquistas. Para o horror dos aventureiros, ele serve a carne dos monstros aos clientes no jantar daquela noite.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 157, (4th Edition)|
 |*Volo's Guide to the North*, p. 135 - 138 (2nd Edition)|
@@ -405,44 +405,44 @@ An enterprising single-eared orc named "Vagdru One-Ear" restored the site to bei
 
 (print-page)
 
-## Bluelake District
+## Distrito do Lago Azul
 
-The Bluelake District, formerly the "Blacklake District", was home to many of the noble estates in Neverwinter. Most of the estates fared well against the cataclysm thanks to their sturdy construction. However, many were left abandoned after their owners perished in the cataclysm. The abandoned buildings proved fertile ground for the seedy underbelly of the city to gain a foothold. 
+O Distrito do Lago Azul, anteriormente conhecido como "Distrito do Lago Negro", abrigava muitas das propriedades nobres de Neverwinter. A maioria das propriedades resistiu bem ao cataclismo graças à sua construção robusta. No entanto, muitas foram abandonadas após a morte de seus proprietários no cataclismo. Os edifícios abandonados se tornaram terreno fértil para o submundo sórdido da cidade ganhar terreno.
 
-Lord Neverember and his mercenaries saw great opportunity in resettling the overgrown estates in the district. However, when they attempted to do so, they found themselves attacked by a variety of factions. Seemingly every shadow faction of the city, from the Sons of Alagondar to the Dead Rats, had taken up residence in the area. It became extremely dangerous to traverse this section of the city. In recent years, however, it has improved dramatically.
+Lorde Neverember e seus mercenários viram uma grande oportunidade em repovoar as propriedades abandonadas no distrito. Contudo, ao tentarem fazê-lo, foram atacados por diversas facções. Aparentemente, todas as facções sombrias da cidade, dos Filhos de Alagondar aos Ratos Mortos, haviam se estabelecido na área. Tornou-se extremamente perigoso atravessar essa parte da cidade. Nos últimos anos, porém, a situação melhorou drasticamente.
 
-### Bluelake
+### Lago Azul
 
-Bluelake, formerly called "Blacklake", is a lake that sits in the center of its namesake district. The lake is used for boating activities at times. However, in the summer, the lake's level decreases dramatically and becomes somewhat more of a swamp.
+Lago Azul, anteriormente chamado de "Lago Negro", é um lago localizado no centro do distrito de mesmo nome. O lago é usado para atividades náuticas ocasionalmente. No entanto, durante o verão, o nível do lago diminui drasticamente e se torna mais parecido com um pântano.
 
-The lake became particularly vile and sludge-filled after the eruption of Mount Hotenow, which filled the lake with ash. Lord Neverember made dredging and restoring the lake one of his priorities. This effort seems to have been successful, and it was renamed "Bluelake".
+O lago ficou particularmente sujo e cheio de lodo após a erupção do Monte Hotenow, que o encheu de cinzas. Lorde Neverember fez da dragagem e restauração do lago uma de suas prioridades. Esse esforço parece ter sido bem-sucedido, e o lago foi renomeado para "Lago Azul".
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 |*Lost Crown of Neverwinter*, p. 33, (4th Edition)|
 {.references}
 
-### House of a Thousand Faces
+### Casa das Mil Faces
 
-The House of a Thousand Faces is a comfortable tavern in the Bluelake region of Neverwinter. The building was once a boutique clothing store for the rich nobles of the area and is full of mirrors and mannequins displaying antiquated clothing styles. The mannequins and their reflection are what give the building its name of a "Thousand Faces". It features lush and comfortable couches where citizens sit and converse happily. 
+A Casa das Mil Faces é uma taverna aconchegante na região de Lago Azul, em Neverwinter. O prédio já foi uma boutique de roupas para os nobres ricos da região e está repleto de espelhos e manequins exibindo estilos de vestimentas antiquados. Os manequins e seus reflexos são o que dão ao prédio o nome de "Mil Faces". Possui sofás luxuosos e confortáveis ​​onde os cidadãos sentam e conversam alegremente.
 
-The basement of the tavern is the secret meeting location for the Neverwinter chapter of the Harpers. The Harpers, generally an organization that stands for preserving history and all things "good", have a particularly complicated history in Neverwinter. The reputation of the local Neverwinter chapter of the Harpers was damaged when one of its high-ranking members was caught acting as a sort of double-agent between Lord Neverember and the Sons of Alagondar (who opposed Neverember's rule).
+O porão da taverna é o local de encontro secreto do capítulo de Neverwinter dos Harpistas. Os Harpistas, geralmente uma organização que defende a preservação da história e de tudo o que é "bom", têm uma história particularmente complicada em Neverwinter. A reputação do capítulo local dos Harpistas em Neverwinter foi prejudicada quando um de seus membros de alto escalão foi pego atuando como uma espécie de agente duplo entre Lorde Neverember e os Filhos de Alagondar (que se opunham ao governo de Neverember).
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 {.references}
 
-## The Chasm District
+## O Distrito do Abismo
 
-### The Sealed Chasm
+### O Abismo Selado
 
-When Mount Hotenow erupted, a giant canyon into a Spellplague-laden section of the Underdark was torn open in the southeastern quarter of Neverwinter. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
+Quando o Monte Hotenow entrou em erupção, um desfiladeiro gigante que dava para uma área infestada pela Praga Mágica em Umbreterna foi aberto no quadrante sudeste de Neverwinter. Essa parte da cidade foi praticamente arrasada no processo. Desse abismo gigantesco emergiu todo tipo de criatura sobrenatural. Qualquer um que se aproximasse do abismo experimentaria ansiedade e outros efeitos mentais desagradáveis. Uma muralha foi erguida ao redor da região para conter os horrores que emergiram do abismo.
 
-With immense effort and expense, Neverember was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
+Com imenso esforço e custo, Neverember conseguiu selar o abismo com magia poderosa. Com o abismo selado, o distrito ficou reduzido a pouco mais que ruínas arrasadas. A área foi liberada para ocupação. Qualquer um que quisesse estabelecer um assentamento na região era livre para reivindicar a terra e fazê-lo. Colonos ousados, particularmente aqueles pobres demais para fazê-lo em outros lugares, estão migrando para o Distrito do Abismo para construir uma nova vida para si mesmos.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 52 - 53, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 159 - 164, (4th Edition)|
@@ -450,12 +450,12 @@ With immense effort and expense, Neverember was able to have the chasm sealed sh
 
 ## Neverdeath
 
-Neverdeath is Neverwinter's graveyard. It is divided into two major sections. The Pauper's section, to the southwest, contains rows upon rows of humble graves. Many are unmarked with nameless souls that perished in one of Neverwinter's numerous tragedies and cataclysms. The other section contains more elaborate mausoleums where nobility and wealthy were laid to rest.
+Neverdeath é o cemitério de Neverwinter. Ele é dividido em duas seções principais. A seção dos Indigentes, a sudoeste, contém fileiras e mais fileiras de túmulos humildes. Muitos estão sem lápides, com almas sem nome que pereceram em uma das inúmeras tragédias e cataclismos de Neverwinter. A outra seção contém mausoléus mais elaborados, onde nobreza e ricos descansam.
 
-Both sections of Neverdeath were strongly affected by the Spellplague. In addition to physically altering the landscape of the graveyard, the corpses now spring back to life and attack visitors. Tall walls protect the horrors of the graveyard from attacking the city, and Neverwinter's residents know to stay well away from the horrors that await within. The people of Neverwinter now burn their dead.
+Ambas as seções de Neverdeath foram fortemente afetadas pela Praga Mágica. Além de alterar fisicamente a paisagem do cemitério, os cadáveres agora voltam à vida e atacam os visitantes. Altos muros protegem os horrores do cemitério de atacarem a cidade, e os habitantes de Neverwinter sabem que devem se manter bem longe dos horrores que os aguardam lá dentro. O povo de Neverwinter agora crema seus mortos.
 
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
 |*Neverwinter Campaign Setting*, p. 145, (4th Edition)|
 {.references .screen-only}
