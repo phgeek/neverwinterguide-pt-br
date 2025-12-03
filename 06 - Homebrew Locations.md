@@ -5,81 +5,81 @@ order: 60
 module-pagebreaks: h1, h2, h3
 ---
 
-# Homebrew Locations
+# Locais Homebrew
 
-|![Homebrew](mug.svg)**Homebrew Content**|
+|![Homebrew](mug.svg)**Conteúdo Homebrew**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Esta seção é um local não oficial de Neverwinter criado para este guia. Personalize-o para *sua* campanha!|
 {.homebrew}
 
-Welcome, Dungeon Masters! While the guide has focused on the canonical locations and history of Neverwinter thus far, this section is all about providing newly made-up locations that Dungeon Masters may find useful if running a campaign through this sprawling city. Despite the great locations that are offered up in official lore sources, the city is actually light on more run-of-the-mill, utilitarian shops and locations (at least compared to somewhere like Phandalin).
+Bem-vindos, Mestres de Masmorra! Embora o guia tenha se concentrado nos locais e na história canônicos de Neverwinter até agora, esta seção apresenta locais inéditos que os Mestres de Masmorra podem achar úteis ao conduzir uma campanha nesta cidade extensa. Apesar dos ótimos locais descritos nas fontes oficiais de conhecimento, a cidade, na verdade, carece de lojas e estabelecimentos mais comuns e utilitários (pelo menos em comparação com lugares como Phandalin).
 
-In this section, you will find an armor shop, a weapons shop, a potions shop, a general goods store, and a magical items shop - all the sorts of things one might expect to find in a larger city in Faerûn. Everything in this section has been made just for this guide, so you should have no worries about changing any of the details about these locations for your campaign should you decide to use them!
+Nesta seção, você encontrará uma loja de armaduras, uma loja de armas, uma loja de poções, uma loja de artigos gerais e uma loja de itens mágicos — todos os tipos de coisas que se esperaria encontrar em uma cidade maior de Faerûn. Tudo nesta seção foi criado especificamente para este guia, então você não precisa se preocupar em alterar nenhum detalhe sobre esses locais para sua campanha, caso decida usá-los!
 
-Be sure to check out [Appendix B](point-of-interest-cards-page) for useful shop cards that you can hand your players when they visit these locations.
+Não se esqueça de conferir o [Apêndice B](point-of-interest-cards-page) para obter cartas de loja úteis que você pode entregar aos seus jogadores quando visitarem esses locais.
 
-![Brannur's Dependable Defenses](Images/POICards/BrannursDependableDefenses.webp){.size-full .screen-only .before-next-page-header}
+![Defesas Confiáveis ​​de Brannur](Images/POICards/BrannursDependableDefenses.webp){.size-full .screen-only .before-next-page-header}
 
-### Brannur's Dependable Defenses
+### Defesas Confiáveis ​​de Brannur
 
-Brannur Lutgehr, a talented and hard-working young (by dwarven standards) male dwarf, has seen an opportunity in Neverwinter's reconstruction efforts. Brannur has opened up a blacksmithing shop in Neverwinter's Chasm District to sell armor, tools, and larger pieces of farming equipment (e.g., plows). While the nascent shop is still only positioned to offer the more-standard forms of armor, Brannur is quickly gaining a reputation for well-crafted goods and has even scored some contracts supplying armor to Neverwinter's guard forces.
+Brannur Lutgehr, um jovem anão talentoso e trabalhador (para os padrões anões), viu uma oportunidade nos esforços de reconstrução de Neverwinter. Brannur abriu uma loja de ferreiro no Distrito do Abismo de Neverwinter para vender armaduras, ferramentas e equipamentos agrícolas maiores (ex: arados). Embora a nova loja ainda ofereça apenas os tipos mais comuns de armadura, Brannur está rapidamente ganhando reputação por seus produtos bem-feitos e até conseguiu alguns contratos para fornecer armaduras às forças de guarda de Neverwinter.
 
-The shop is impeccably clean and well-organized. Much of the armor on display is polished to a mirror-like finish and always arranged in a perfectly symmetrical configuration on the shop's walls and stands. If Brannur isn't in the back of the shop working with the forges, he can be found in the front of the shop either sweeping or running around with a cloth to remove any smudges that may have found their way onto one of his works. A customer accidentally bumping one of the armor stands such that it skews slightly is likely to give Brannur an involuntary twitch.
+A loja é impecavelmente limpa e bem organizada. Grande parte das armaduras em exposição tem um acabamento polido como um espelho e está sempre disposta em uma configuração perfeitamente simétrica nas paredes e suportes da loja. Se Brannur não estiver nos fundos da loja trabalhando nas forjas, pode ser encontrado na frente, varrendo ou correndo com um pano para remover qualquer mancha que possa ter caído em alguma de suas peças. Um cliente que acidentalmente esbarrar em um dos suportes de armadura, fazendo-o entortar um pouco, provavelmente causará um espasmo involuntário em Brannur.
 
-Brannur has a calm and polite demeanor, and most of his customers would find it hard to picture him ever raising his voice - be it in excitement or anger. This comes through in his work, as Brannur likes to focus his talents on crafting items of defense and utility rather than items of intended to harm. However, this illusion of a calm stoicism would quickly be dispelled if one were to see Brannur and his sister, Brannwyn, interacting. When those two are in the same room, a heated argument is sure to arise.
+Brannur tem um comportamento calmo e educado, e a maioria de seus clientes dificilmente o imaginaria levantando a voz — seja por empolgação ou raiva. Isso se reflete em seu trabalho, já que Brannur gosta de concentrar seus talentos na criação de itens de defesa e utilidade, em vez de itens destinados a causar dano. No entanto, essa ilusão de estoicismo calmo se dissiparia rapidamente se alguém visse Brannur e sua irmã, Brannwyn, interagindo. Quando os dois estão no mesmo ambiente, uma discussão acalorada certamente surgirá.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Top Shelf Ingredients***. Brannur wants to take his shop to the next level, but to do so, needs a rare ingredient not easily accessible in this area. He's heard rumor the ingredient was in possession of the pirates at Pirates' Skyhold and would like the party to procure it for him.|
+|***Ingredientes de Primeira Qualidade***. Brannur quer levar sua loja para o próximo nível, mas para isso, precisa de um ingrediente raro, não facilmente encontrado nesta área. Ele ouviu rumores de que o ingrediente estava em posse dos piratas da Fortaleza Celeste dos Piratas e gostaria que o grupo o conseguisse para ele.|
 {.dmidea}
 
 ![Brannur Lutgehr](Images/Brannur.jpg =370x){.print-bottom-right .with-margin}
 
 (print-page)
 
-![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
+![Forja Lutgehr](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
 
-![Brannwyn's Sharp Edge](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
+![Lâmina Afiada de Brannwyn](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
 
-### Brannwyn's Sharp Edge
+### Lâmina Afiada de Brannwyn
 
-Brannwyn Lutgehr, sister of Brannur, also sought out the fortunes that a quickly-evolving Neverwinter may offer. Brannwyn has opened up a shop next door to her brother, Brannur, where she also exhibits her blacksmithing skills by creating all manner of weapons. Like her brother, Brannwyn is also gaining a reputation as being a reliable source to arm Neverwinter's growing defense forces. In fact, some of the city's procurement staff have ired both Brannur and Brannwyn by placing a single order for both armor and weapons, thinking their two shops are a single entity.
+Brannwyn Lutgehr, irmã de Brannur, também almejava as fortunas que uma Neverwinter em rápida evolução poderia oferecer. Brannwyn abriu uma loja ao lado da de seu irmão, Brannur, onde também demonstra suas habilidades de ferreira, criando todos os tipos de armas. Assim como seu irmão, Brannwyn também está ganhando reputação por ser uma fonte confiável para armar as crescentes forças de defesa de Neverwinter. De fato, alguns funcionários do departamento de compras da cidade irritaram tanto Brannur quanto Brannwyn ao fazerem um único pedido de armaduras e armas, pensando que suas duas lojas eram uma só.
 
-Brannwyn's shop lacks the meticulous cleanliness exhibited in her brother's shop, but that doesn't imply the goods are of any lesser quality. The weapons crafted in Brannwyn's shop are forged with care, and they are known to be as reliable as they are deadly. The swords crafted at Brannwyn's shop are sharp, well-balanced, and very sturdy.
+A loja de Brannwyn não possui a mesma limpeza meticulosa da loja de seu irmão, mas isso não significa que os produtos sejam de qualidade inferior. As armas fabricadas na loja de Brannwyn são forjadas com cuidado e são conhecidas por serem tão confiáveis ​​quanto letais. As espadas forjadas na loja de Brannwyn são afiadas, bem equilibradas e muito resistentes.
 
-Brannwyn's personality is almost the exact opposite of her brother's, and the "Sharp Edge" name of her shop is as likely to be referring to her demeanor as it is to her finely-crafted weapons. Brannwyn is quick-witted and won't hesitate to take a verbal jab at any that arrive in her shop. Those that are easily offended are probably better off shopping elsewhere.
+A personalidade de Brannwyn é quase o oposto da de seu irmão, e o nome "Lâmina Afiada" de sua loja provavelmente se refere tanto ao seu temperamento quanto à qualidade de suas armas. Brannwyn é espirituosa e não hesitará em alfinetar verbalmente qualquer um que entre em sua loja. Aqueles que se ofendem facilmente provavelmente fariam melhor em comprar em outro lugar.
 
 ![Brannwyn Lutgehr](Images/Brannwyn.jpg =370x)
 
 (print-page)
 
-![PotionShop](PrintImages/PotionShop.jpg){.print-only .size-cover .no-margin}
+![Loja de Poções](PrintImages/PotionShop.jpg){.print-only .size-cover .no-margin}
 
-> **Sibling Rivalry**
+> **Rivalidade entre Irmãos**
 >
-> Brannur and Brannwyn are extremely competitive with each other, and each will do almost anything to top the other. Their two shops are immediately next door to each other, which means that such competitions come up often. Some keen shoppers have noticed that they can use this rivalry to their advantage — generally by playing the siblings off each other. All it generally takes is a simple assertion that the other sibling has claimed the ability to do something better than the other; this will cause the first sibling to work extra hard or cut prices simply to one-up the other.  
+> Brannur e Brannwyn são extremamente competitivos um com o outro, e cada um fará quase tudo para superar o outro. Suas duas lojas ficam lado a lado, o que significa que essas competições são frequentes. Alguns compradores atentos perceberam que podem usar essa rivalidade a seu favor — geralmente manipulando os irmãos. Basta uma simples afirmação de que o outro irmão alega ser capaz de fazer algo melhor do que ele; isso fará com que o primeiro irmão trabalhe mais ou reduza os preços simplesmente para superar o outro.
 >
-> However, insulting either Brannur or Brannwyn in front of the other sibling will be met with swift fury. At the heart of it, the siblings care deeply for each other, and their petty squabbles are far overshadowed by the immense sense of familial pride and unity. It's quite common to see one of the Lutgehr siblings helping the other by lending a tool or even donating expensive metals and materials. An outsider taking a jab at one of the siblings will, at best, be met with a glare and a return insult and, at worst, get you thrown out of the shop or have the entire Lutgehr clan up in arms.
+> No entanto, insultar Brannur ou Brannwyn na frente do outro irmão resultará em uma fúria imediata. No fundo, os irmãos se importam profundamente um com o outro, e suas pequenas brigas são amplamente ofuscadas pelo imenso senso de orgulho e união familiar. É bastante comum ver um dos irmãos Lutgehr ajudando o outro, emprestando uma ferramenta ou até mesmo doando metais e materiais caros. Um forasteiro que fizer uma provocação a um dos irmãos, na melhor das hipóteses, será recebido com um olhar fulminante e uma resposta insultuosa e, na pior, será expulso da loja ou fará com que todo o clã Lutgehr se revolte.
 
 (print-column)
 
-![Priscilla's Perfumes and Potables](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
+![Perfumes e Bebidas da Priscilla](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
 
-### Priscilla's Perfumes and Potables
+### Perfumes e Bebidas da Priscilla
 
-Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
+Perfumes e Bebidas da Priscilla pertence a uma jovem humana que atende simplesmente por "Priscilla" — nunca revelou seu sobrenome. A bela loja, localizada no Distrito de Lago Azul, possui prateleiras do chão ao teto repletas de flores frescas e frascos de vidro com líquidos de cores vibrantes. De fato, há tantas flores na loja que muitos visitantes a confundem com uma floricultura. Todos os móveis da loja são ricamente trabalhados e polidos até brilharem.
 
-While the shop's name may seem to indicate that it is focused around perfumes and fragrant beverages, Priscilla is an extremely talented alchemist and apothecary. She is capable of making exotic and rare concoctions for the right price. She also has some talent in diagnosing maladies, though she generally doesn't offer those services unless asked explicitly.
+Embora o nome da loja possa sugerir que ela se concentra em perfumes e bebidas aromáticas, Priscilla é uma alquimista e boticária extremamente talentosa. Ela é capaz de criar misturas exóticas e raras pelo preço certo. Ela também tem algum talento para diagnosticar doenças, embora geralmente não ofereça esses serviços a menos que sejam solicitados explicitamente.
 
-While extremely jovial, Priscilla will avoid giving away much personal information. How she came to possess her skills at such a young age, how she could afford such a nice shop in the Bluelake District, and her family history are all mysterious. Local residents of Bluelake will tell you the shop itself seemed to spring up from nowhere overnight. 
+Apesar de ser extremamente jovial, Priscilla evita revelar muitas informações pessoais. Como ela adquiriu suas habilidades em uma idade tão jovem, como conseguiu manter uma loja tão elegante no Distrito de Lago Azul e sua história familiar são mistérios. Os moradores de Lago Azul dirão que a loja parece ter surgido do nada, da noite para o dia.
 
 (print-page)
 
-Despite being relatively new to the city, Priscilla is now well known to a large swath of Neverwinter residents as a person with great compassion. She frequently donates her goods and services to poorer Neverwinter residents that are truly in need. She even regularly makes her way down to the Chasm District to hand-deliver potions and poultices to the sick or injured.
+Apesar de ser relativamente nova na cidade, Priscilla já é conhecida por grande parte dos habitantes de Neverwinter como uma pessoa de grande compaixão. Ela frequentemente doa seus produtos e serviços aos moradores mais pobres de Neverwinter que realmente precisam. Ela até mesmo viaja regularmente até o Distrito do Abismo para entregar poções e cataplasmas aos doentes e feridos.
 
 ![Priscilla](Images/Priscilla.jpg =370x)
 
-All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents of Neverwinter all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents of Neverwinter may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
+De qualquer forma, sua loja é absolutamente condizente com o desejo do Distrito de Lago Azul de restaurar suas propriedades e famílias nobres. Os moradores mais ricos de Neverwinter conhecem Priscilla e frequentam sua loja tanto por suas poções quanto por suas fragrâncias requintadas. Os moradores mais pobres de Neverwinter podem não conhecer a loja, mas certamente conhecerão a própria Priscilla e suas supostas curas "milagrosas".
 
 ![Swift Heart Sundries](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
