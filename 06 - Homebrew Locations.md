@@ -81,54 +81,54 @@ Apesar de ser relativamente nova na cidade, Priscilla já é conhecida por grand
 
 De qualquer forma, sua loja é absolutamente condizente com o desejo do Distrito de Lago Azul de restaurar suas propriedades e famílias nobres. Os moradores mais ricos de Neverwinter conhecem Priscilla e frequentam sua loja tanto por suas poções quanto por suas fragrâncias requintadas. Os moradores mais pobres de Neverwinter podem não conhecer a loja, mas certamente conhecerão a própria Priscilla e suas supostas curas "milagrosas".
 
-![Swift Heart Sundries](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
+![Coração Veloz Variedades](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
-### Swift Heart Sundries
+### Coração Veloz Variedades
 
-Swift Heart Sundries is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
+Coração Veloz Variedades é uma loja de artigos diversos pertencente a Coração Veloz, uma Tabaxi idosa. A loja ocupa um prédio novo e modesto, construído sobre os alicerces de um edifício demolido no Distrito do Abismo. O prédio recém-construído exala o aroma de madeira fresca, farinha fresca e ervas secas penduradas. Os produtos oferecidos são simples, mas a loja é organizada.
 
-Swift Heart, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Swift Heart intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available in Neverwinter's now-sealed chasm, she made haste to the city to establish her store.
+Coração Veloz, após uma longa vida repleta de aventuras em busca de tesouros, usou sua pequena fortuna para se estabelecer e buscar a aposentadoria. Sempre ousada, contudo, Coração Veloz escolheu intencionalmente instalar sua loja em uma cidade desconhecida. Ela raciocinou que se estabelecer em um local novo e estranho lhe proporcionaria pelo menos alguma emoção, mesmo na "aposentadoria". Ao longo de suas viagens, ela fez inúmeras conexões com fornecedores e comerciantes, e concluiu que poderia usar essas conexões para criar uma pequena loja lucrativa. Ao saber da disponibilidade de terrenos quase gratuitos no abismo agora selado de Neverwinter, ela correu para a cidade para estabelecer sua loja.
 
-Swift Heart now has a relaxed and empathetic disposition, but she will be the first to tell you that she was a passionate adventure-seeker in her youth. She'll gladly tell you a tale or two about her dangerous treks through jungles filled with giant venomous snakes, near-death experiences wandering in endless desert dunes, or even times spent on the high seas with her Tabaxi sea captain friend, Stands in Tar.
+Coração Veloz agora tem uma disposição relaxada e empática, mas ela será a primeira a lhe contar que, em sua juventude, era uma aventureira apaixonada. Ela terá prazer em lhe contar uma ou duas histórias sobre suas perigosas jornadas por selvas repletas de cobras venenosas gigantes, experiências de quase morte vagando por dunas desérticas intermináveis ​​ou até mesmo os momentos passados ​​em alto mar com seu amigo capitão Tabaxi, Stands in Tar.
 
-![Swift Heart](Images/SwiftHeart.jpg =370x){.print-bottom-right .with-margin}
-
-(print-page)
-
-![Arcane Acquisitions](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
-
-![Arcane Acquisitions](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
-
-### Arcane Acquisitions
-
-Arcane Acquisitions is a shop that sells magical arms and armor located in the Chasm district. The shop is generally very easy to locate, as it will generally be emanating a bright purple, green, or blue glow from one of its many forges and braziers (much to the chagrin of its neighbors). Approaching the shop, a customer will generally hear the banging of hammer on anvil, the hiss of steam valves being released from the many stills and alchemical contraptions, or the roar of seemingly-magical flames.
-
-The shop is run by the eccentric half-elf Wizard named Flinar Ralolar. Flinar wears a robe and goggles around his shop, where he quietly toils away with a perpetual frown on his face. His assistant, a goblin by the name of Gigz, performs most of the mundane blacksmithing at the shop. Patrons will never, however, hear Flinar and Gigz conversing as Flinar chooses to telepathically communicate with his assistant.
-
-Flinar Ralolar, age unknown, is a mysterious individual. Not one to volunteer much information, little is known about the wizard. What some do know, however, is that before Flinar arrived in Neverwinter, he was among the many that came to the Wave Echo Cave outside of Phandalin to study the Forge of Spells (once it was cleared of malicious forces by adventurers).
-
-![Flinar and Gigz](Images/FlinarAndGigz.jpg =370x){.print-bottom-right .with-margin}
+![Coração Veloz](Images/SwiftHeart.jpg =370x){.print-bottom-right .with-margin}
 
 (print-page)
 
-Flinar isn't unfriendly, per se, just merely very flat in his demeanor. His frown seems to be more of a physical attribute of the man than an actual indication of his discontent. Flinar will even attempt to smile and warmly greet customers that enter his shop, though the expression generally comes across as awkward, insincere, and off-putting. Attempts to converse with Gigz will never result in anything more than a nod or shake of the head.
+![Aquisições Arcanas](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
 
-Flinar offers a variety of magical weapons, armor, and items that he crafts in his workshop. He does not generally take requests or commissions, instead, offering only what he was already created. Some speculate the store is more of a research laboratory for the wizard, and he only chooses to sell his goods to make room for new research.
+![Aquisições Arcanas](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
 
-Use the following table for magical items that might be offered up at Flinar's shop:
+### Aquisições Arcanas
 
-|[D12](/roll/d10)| Magic Item                                                                                                                                                                                                                                                                                                                                                                                                                          |
+A Aquisições Arcanas é uma loja que vende armas e armaduras mágicas, localizada no Distrito do Abismo. A loja geralmente é muito fácil de encontrar, pois normalmente emana um brilho roxo, verde ou azul intenso de uma de suas muitas forjas e braseiros (para grande desgosto de seus vizinhos). Ao se aproximar da loja, um cliente geralmente ouve o som de martelos batendo em bigornas, o chiado das válvulas de vapor sendo liberadas dos muitos alambiques e engenhocas alquímicas, ou o rugido de chamas aparentemente mágicas.
+
+A loja é administrada pelo excêntrico mago meio-elfo chamado Flinar Ralolar. Flinar usa um manto e óculos de proteção em sua loja, onde trabalha silenciosamente com uma carranca perpétua no rosto. Seu assistente, um goblin chamado Gigz, realiza a maior parte do trabalho de ferreiro na loja. Os clientes, no entanto, nunca ouvirão Flinar e Gigz conversando, pois Flinar opta por se comunicar telepaticamente com seu assistente.
+
+Flinar Ralolar, de idade desconhecida, é um indivíduo misterioso. Não é do tipo que compartilha muitas informações, e pouco se sabe sobre o mago. O que alguns sabem, porém, é que antes de chegar a Neverwinter, Flinar estava entre os muitos que vieram à Caverna das Ondas Trovejantes, nos arredores de Phandalin, para estudar a Forja da Magia (após ela ter sido libertada das forças malignas por aventureiros).
+
+![Flinar e Gigz](Images/FlinarAndGigz.jpg =370x){.print-bottom-right .with-margin}
+
+(print-page)
+
+Flinar não é antipático em si, apenas tem uma expressão muito apática. Sua carranca parece ser mais um atributo físico do que uma indicação real de descontentamento. Flinar até tenta sorrir e cumprimentar calorosamente os clientes que entram em sua loja, embora a expressão geralmente pareça estranha, insincera e desagradável. Tentativas de conversar com Gigz nunca resultarão em nada além de um aceno ou um gesto de negação com a cabeça.
+
+Flinar oferece uma variedade de armas mágicas, armaduras e itens que ele mesmo cria em sua oficina. Ele geralmente não aceita encomendas ou comissões, oferecendo apenas o que já foi produzido. Alguns especulam que a loja funciona mais como um laboratório de pesquisa para o mago, e que ele vende seus produtos apenas para liberar espaço para novas pesquisas.
+
+Use a tabela a seguir para itens mágicos que podem ser encontrados na loja de Flinar:
+
+|[D12](/roll/d10)| Item Mágico                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---|---|
-|**1**| **Quicksilver Longsword** <br /> *Weapon (Longsword), uncommon (requires attunement)* <br />The bearer may use a bonus action to change the form of the weapon to any other simple or martial melee weapon. It always counts as a silvered weapon no matter what form it takes.|
-|**2**| **Rain-Activated Chain Mail** <br /> *Armor (Chain Shirt), uncommon (requires attunement)* <br /> This chain mail becomes +1 armor when wetted by rainfall. The chain mail must be wet, and the water must come from rain, otherwise the armor is merely standard chain mail.|
-|**3**| **Deerstalker Hat** <br /> *Wondrous Item, uncommon (requires attunement)* <br /> The wearer gains +1 to Investigation checks.|
-|**4**| **Tithing Mace** <br /> *Weapon (Mace), uncommon (requires attunement)* <br />The bearer may lay 10 gold coins along the surface of the weapon and pray to a God of their choice for 10 minutes. At the end of this ritual, the weapon becomes a +1 weapon until the next long rest and the 10 gold coins are permanently gone. This boon will be lost if the bearer acts in a way that is contradictory to that deity's teachings.|
-|**5**| **Defensive Cleaver** <br /> *Weapon (Handaxe), uncommon (requires attunement)* <br /> Whenever the bearer takes a dodge or disengage action, they may move an additional 5 feet that round.|
-|**6**| **Extra-Light Longbow** <br /> *Weapon (Longbow), uncommon (requires attunement)* <br /> The bearer gain a +1 bonus to initiative rolls.    |
-|**7**| **Bartender's Boots** <br /> *Wondrous Item, uncommon (requires attunement)* <br /> The wearer gains +1 charisma when doing Persuasion or Deception checks against any creature to whom they have served a beverage.|
-|**8**| **Airy Leather Armor**, *Armor (Leather), uncommon (requires attunement)* <br /> Contains [1d4](/roll/1d4) unreplenishable charges of the Feather Fall spell.|
-|**9**| **Enraged Dagger**, *Weapon (Dagger), uncommon (requires attunement)* <br /> Once per day, the bearer may spend their reaction to gain +1 AC and +1 Damage for 30 seconds.|
-|**10**| **Babel Earring** <br /> *Wondrous Item, uncommon (requires attunement)* <br /> Contains [1d4](/roll/1d4) unreplenishable charges of the Comprehend Languages spell.|
-|**11**| **Shadowgarb Armor** <br /> *Armor (Leather), uncommon (requires attunement)* <br /> From dusk until dawn, the wearer may treat this as +1 armor.|
-|**12**| **Ring of Echoes** <br /> *Wondrous Item, rare (requires attunement)* <br /> The bearer may cast Prestidigitation once per day.|
+|**1**| **Espada Longa de Mercúrio** <br /> *Arma (Espada Longa), incomum (requer sintonização)* <br />O portador pode usar uma ação bônus para mudar a forma da arma para qualquer outra arma corpo a corpo simples ou marcial. Ela sempre conta como uma arma prateada, não importa a forma que assuma.|
+|**2**| **Cota de Malha Ativada pela Chuva** <br /> *Armadura (Camisa de Malha), incomum (requer sintonização)* <br /> Esta cota de malha torna-se uma armadura +1 quando molhada pela chuva. A cota de malha deve estar molhada, e a água deve vir da chuva; caso contrário, a armadura é apenas uma cota de malha padrão.|
+|**3**| **Chapéu de Caçador** <br /> *Item Maravilhoso, incomum (requer sintonização)* <br /> O usuário ganha +1 em testes de Investigação.|
+|**4**| **Maça Dizimadora** <br /> *Arma (Maça), incomum (requer sintonização)* <br />O portador pode depositar 10 moedas de ouro na superfície da arma e orar a um deus de sua escolha por 10 minutos. No final deste ritual, a arma torna-se uma arma +1 até o próximo descanso longo, e as 10 moedas de ouro desaparecem permanentemente. Este benefício será perdido se o portador agir de forma contraditória aos ensinamentos dessa divindade.|
+|**5**| **Cutelo Defensivo** <br /> *Arma (Machadinha), incomum (requer sintonização)* <br /> Sempre que o portador realiza uma ação de Esquivar ou Desengajar, ele pode se mover 1,5 metros adicionais naquele turno.|
+|**6**| **Arco Longo Extraleve** <br /> *Arma (Arco Longo), incomum (requer sintonização)* <br /> O portador ganha um bônus de +1 em rolagens de iniciativa.    |
+|**7**| **Botas de Taverneiro** <br /> *Item Maravilhoso, incomum (requer sintonização)* <br /> O usuário ganha +1 de Carisma em testes de Persuasão ou Enganação contra qualquer criatura a quem ele tenha servido uma bebida.|
+|**8**| **Armadura de Couro Arejada**, *Armadura (Couro), incomum (requer sintonização)* <br /> Contém [1d4](/roll/1d4) cargas não-recarregáveis da magia Cair Suave.|
+|**9**| **Adaga Enfurecida**, *Arma (Adaga), incomum (requer sintonização)* <br /> Uma vez por dia, o portador pode gastar sua reação para ganhar +1 de CA e +1 de Dano por 30 segundos.|
+|**10**| **Brinco de Babel** <br /> *Item Maravilhoso, incomum (requer sintonização)* <br /> Contém [1d4](/roll/1d4) não-recarregáveis da magia Compreender Idiomas.|
+|**11**| **Armadura Sombria** <br /> *Armadura (Couro), incomum (requer sintonização)* <br /> Do anoitecer ao amanhecer, o usuário pode tratar esta armadura como uma armadura +1.|
+|**12**| **Anel de Ecos** <br /> *Item Maravilhoso, rare (requer sintonização)* <br /> O portador pode lançar Prestidigitação uma vez por dia.|
 {.allow-breaks}
