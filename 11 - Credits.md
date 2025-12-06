@@ -5,49 +5,53 @@ order: 110
 pdf-page-style: single-column
 ---
 
-# Credits
+# Créditos
 
-This guide wouldn't be possible without the contributions of all the wonderful artists that put such hard work into their commissions for this guide, as well as the reviewers who helped proofread and fact check it. Thank you all so much! {.no-fancy}
+Este guia não seria possível sem a contribuição de todos os artistas maravilhosos que se dedicaram tanto às suas ilustrações, bem como dos revisores que ajudaram na revisão e verificação dos fatos. Muito obrigado a todos! {.no-fancy}
 
-#### Authors
+#### Autores
 
-All content written by [Jacob Johnston](https://inchoatethoughts.com){.neutral}
+Todo o conteúdo escrito por [Jacob Johnston](https://inchoatethoughts.com){.neutral}
 
-#### Cartography
+#### Cartografia
 
-Neverwinter Map created by [Damijan Jeric](https://www.fiverr.com/damijan){.neutral}
+Mapa de Neverwinter criado por [Damijan Jeric](https://www.fiverr.com/damijan){.neutral}
 
-All other cartography by [Jacob Johnston](https://inchoatethoughts.com){.neutral} with assets from [Venatus Maps](https://www.venatusmaps.com){.neutral}
+Todas as outras ilustrações cartográficas por [Jacob Johnston](https://inchoatethoughts.com){.neutral} com recursos de [Venatus Maps](https://www.venatusmaps.com){.neutral}
 
-#### Illustrations
+#### Ilustrações
 
-Castle Never illustration by [Valery Sazonov](https://www.fiverr.com/valeryse){.neutral}
+Ilustração do Castelo Never por [Valery Sazonov](https://www.fiverr.com/valeryse){.neutral}
 
-Moonstone Mask illustration by [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
+Ilustração da Máscara de Pedra da Lua por [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 
-Beached Leviathan illustration by [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
+Ilustração do Leviatã Encalhado por [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
 
-Shard of the Moon illustration by [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
+Ilustração do Fragmento da Lua por [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 
-Fallen Tower illustration by [Deryl Arrazaq](https://www.fiverr.com/derylarrazaq){.neutral}
+Ilustração da Torre Caída por [Deryl Arrazaq](https://www.fiverr.com/derylarrazaq){.neutral}
 
-Dagult Neverember illustration by [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
+Ilustração de Dagult Neverember por [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
 
-All other illustrations by [Jacob Johnston](https://inchoatethoughts.com){.neutral}
+Todas as outras ilustrações por [Jacob Johnston](https://inchoatethoughts.com){.neutral}
 
-#### Editors
+#### Editores
 
-Special thanks to the early proofreaders that read this guide in its earliest and roughest forms. Thank you for helping this be somewhat coherent!
+Agradecimentos especiais aos primeiros revisores que leram este guia em suas versões iniciais e mais brutas. Obrigado por ajudarem a torná-lo minimamente coerente!
 - Jordan Cooper
 - Jennifer Johnston
 
-Thank you to the following contributors who have [submitted edits](https://github.com/jacobjohnston/neverwinterguide) to this guide: @GuardDanGnome, Christian Lewin (@Calius), @Minoxsta, Patrick, grummi
+Agradecemos aos seguintes colaboradores que [enviaram edições](https://github.com/jacobjohnston/neverwinterguide) para este guia: @GuardDanGnome, Christian Lewin (@Calius), @Minoxsta, Patrick, grummi
 
-#### Document Creation
-This document is authored in Markdown and created using the [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) plugin for Visual Studio Code. More can be learned about this tool at our [GitHub page](https://github.com/encounterplus/module-packer) or in [Discord](https://discord.gg/68sQ97Py).
+#### Tradutores
+
+Tradução em português brasileiro por [Phillippe “Ph.” Caetano](https://github.com/phgeek/){.neutral}
+
+#### Criação do Documento
+Este documento foi escrito em Markdown e criado usando o plugin [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) para Visual Studio Code. Saiba mais sobre esta ferramenta em nossa [página do GitHub](https://github.com/encounterplus/module-packer) ou no [Discord](https://discord.gg/68sQ97Py).
 
 <br /><br />
 
-# Fan Content Policy 
+# Política de Conteúdo de Fãs 
 
-*A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}
+*Um Guia do Mestre para Neverwinter* é um conteúdo de fã não oficial, permitido pela Política de Conteúdo de Fãs. Não aprovado/endossado pela Wizards. Partes dos materiais utilizados são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}
