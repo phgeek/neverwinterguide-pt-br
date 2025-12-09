@@ -5,32 +5,33 @@ order: 01
 module-pagebreaks: h1, h2, h3
 ---
 
-![The Abandoned Townhouse Map](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
+![Mapa da Casa Abandonada](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
 
-# The Abandoned Townhouse
+# A Casa Abandonada
 
-|![Homebrew](../mug.svg)**Homebrew Content**|
+|![Homebrew](../mug.svg)**Conteúdo Homebrew**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Esta seção é um local não oficial de Neverwinter, criada para este guia. Personalize para *sua* campanha!|
 {.homebrew}
 
-This Quick Adventure is designed for a party of roughly three to five 5th level players.{.no-fancy}
+Esta Aventura Rápida é projetada para um grupo de aproximadamente três a cinco jogadores de 5º nível.{.no-fancy}
 
-## Adventure Background
+## Contexto da Aventura
 
-In the Bluelake district of Neverwinter sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Neverwinter's residents into madness. Soon after this attack, he left Neverwinter for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
+No distrito de Bluelake, em Neverwinter, encontra-se uma casa abandonada. A casa pertencia ao mago de guerra cormyriano, Elden Vargas. Elden Vargas tinha negócios com os Ashmadai, que o exploraram, sequestraram sua esposa e a levaram para Helm's Hold. Em uma tentativa de resgatar sua esposa de Helm's Hold, ele usou sua considerável magia psíquica para levar muitos dos habitantes de Neverwinter à loucura. Logo após esse ataque, ele deixou Neverwinter rumo a Helm's Hold. Elden Vargas e seus atos malignos foram finalmente detidos em Helm's Hold (onde aventureiros heroicos o capturaram ou o mataram), e Vargas nunca mais retornou à sua casa.
 
-Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake district, but the magical wards on the property have, so far, kept any squatters from taking the property.
+Antes de partir, Elden Vargas usou magia para selar sua casa e impedir a entrada de intrusos. Essa propriedade abandonada é cobiçada há tempos por aqueles que desejam reivindicar as terras abandonadas do distrito de Lago Azul, mas as proteções mágicas da propriedade, até então, impediam que invasores a tomassem.
 
-The Dead Rats gang, who operates in the sewers of Neverwinter, has been eying the property for some time. They have recently enlisted one of their mages from Luskan to help break the magic wards on the property so they can claim whatever magical relics might lie within.
+A gangue Ratos Mortos, que opera nos esgotos de Neverwinter, está de olho na propriedade há algum tempo. Recentemente, eles recrutaram um de seus magos de Luskan para ajudar a quebrar as proteções mágicas da propriedade, para que possam reivindicar quaisquer relíquias mágicas que estajam lá dentro.
 
-## Adventure Hooks
+## Ganchos de Aventura
 
-**Rumors of Riches**<br />
+**Rumores de Riquezas**<br />
+Os aventureiros ouvem conversas na taverna sobre uma estranha propriedade nobre abandonada que ainda não foi saqueada. Os clientes da taverna especulam que existam itens mágicos raros na nela e que alguém corajoso o suficiente para entrar no local seria ricamente recompensado.
 The adventurers overhear tavern talk about a strange, abandoned noble estate that has yet to be looted. The tavern patrons speculate there are rare magical items in the estate and anyone brave enough to enter the place would be richly rewarded.
 
-**Commissioned**<br />
-The adventurers are commissioned by a wealthy merchant to break down the magical barrier preventing entry into the house. The merchant would ultimately like to renovate and sell the estate, but can't do so until the magic barrier is removed.
+**Contratado**<br />
+Os aventureiros são contratados por um rico mercador para quebrar a barreira mágica que impede a entrada na casa. O mercador gostaria, enfim, de renovar e vender a propriedade, mas não pode fazê-lo enquanto a barreira mágica não for removida.
 
 (print-page)
 
